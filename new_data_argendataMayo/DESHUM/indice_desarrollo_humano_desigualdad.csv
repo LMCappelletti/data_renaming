@@ -1962,71 +1962,71 @@ ZWE,Zimbabwe,África,0.0,2019,0.376,ZWE,Zimbabwe
 ZWE,Zimbabwe,África,0.0,2020,0.373,ZWE,Zimbabwe
 ZWE,Zimbabwe,África,0.0,2021,0.37,ZWE,Zimbabwe
 ZWE,Zimbabwe,África,0.0,2022,0.37,ZWE,Zimbabwe
-ZZA.VHHD,Desarrollo humano muy alto,,,2010,0.77,,
-ZZA.VHHD,Desarrollo humano muy alto,,,2011,0.777,,
-ZZA.VHHD,Desarrollo humano muy alto,,,2012,0.778,,
-ZZA.VHHD,Desarrollo humano muy alto,,,2013,0.782,,
-ZZA.VHHD,Desarrollo humano muy alto,,,2014,0.786,,
-ZZA.VHHD,Desarrollo humano muy alto,,,2015,0.788,,
-ZZA.VHHD,Desarrollo humano muy alto,,,2016,0.792,,
-ZZA.VHHD,Desarrollo humano muy alto,,,2017,0.795,,
-ZZA.VHHD,Desarrollo humano muy alto,,,2018,0.798,,
-ZZA.VHHD,Desarrollo humano muy alto,,,2019,0.803,,
-ZZA.VHHD,Desarrollo humano muy alto,,,2020,0.797,,
-ZZA.VHHD,Desarrollo humano muy alto,,,2021,0.801,,
-ZZA.VHHD,Desarrollo humano muy alto,,,2022,0.807,,
-ZZB.HHD,Desarrollo humano alto,,,2010,0.551,,
-ZZB.HHD,Desarrollo humano alto,,,2011,0.557,,
-ZZB.HHD,Desarrollo humano alto,,,2012,0.568,,
-ZZB.HHD,Desarrollo humano alto,,,2013,0.584,,
-ZZB.HHD,Desarrollo humano alto,,,2014,0.595,,
-ZZB.HHD,Desarrollo humano alto,,,2015,0.598,,
-ZZB.HHD,Desarrollo humano alto,,,2016,0.602,,
-ZZB.HHD,Desarrollo humano alto,,,2017,0.607,,
-ZZB.HHD,Desarrollo humano alto,,,2018,0.615,,
-ZZB.HHD,Desarrollo humano alto,,,2019,0.622,,
-ZZB.HHD,Desarrollo humano alto,,,2020,0.623,,
-ZZB.HHD,Desarrollo humano alto,,,2021,0.624,,
-ZZB.HHD,Desarrollo humano alto,,,2022,0.628,,
-ZZC.MHD,Desarrollo humano medio,,,2010,0.377,,
-ZZC.MHD,Desarrollo humano medio,,,2011,0.388,,
-ZZC.MHD,Desarrollo humano medio,,,2012,0.392,,
-ZZC.MHD,Desarrollo humano medio,,,2013,0.397,,
-ZZC.MHD,Desarrollo humano medio,,,2014,0.405,,
-ZZC.MHD,Desarrollo humano medio,,,2015,0.419,,
-ZZC.MHD,Desarrollo humano medio,,,2016,0.427,,
-ZZC.MHD,Desarrollo humano medio,,,2017,0.433,,
-ZZC.MHD,Desarrollo humano medio,,,2018,0.434,,
-ZZC.MHD,Desarrollo humano medio,,,2019,0.44,,
-ZZC.MHD,Desarrollo humano medio,,,2020,0.439,,
-ZZC.MHD,Desarrollo humano medio,,,2021,0.438,,
-ZZC.MHD,Desarrollo humano medio,,,2022,0.447,,
-ZZD.LHD,Desarrollo humano bajo,,,2010,0.294,,
-ZZD.LHD,Desarrollo humano bajo,,,2011,0.302,,
-ZZD.LHD,Desarrollo humano bajo,,,2012,0.307,,
-ZZD.LHD,Desarrollo humano bajo,,,2013,0.313,,
-ZZD.LHD,Desarrollo humano bajo,,,2014,0.319,,
-ZZD.LHD,Desarrollo humano bajo,,,2015,0.322,,
-ZZD.LHD,Desarrollo humano bajo,,,2016,0.327,,
-ZZD.LHD,Desarrollo humano bajo,,,2017,0.33,,
-ZZD.LHD,Desarrollo humano bajo,,,2018,0.332,,
-ZZD.LHD,Desarrollo humano bajo,,,2019,0.337,,
-ZZD.LHD,Desarrollo humano bajo,,,2020,0.338,,
-ZZD.LHD,Desarrollo humano bajo,,,2021,0.339,,
-ZZD.LHD,Desarrollo humano bajo,,,2022,0.341,,
-ZZE.AS,Estados Árabes,,,2010,0.483,,
-ZZE.AS,Estados Árabes,,,2011,0.493,,
-ZZE.AS,Estados Árabes,,,2012,0.503,,
-ZZE.AS,Estados Árabes,,,2013,0.509,,
-ZZE.AS,Estados Árabes,,,2014,0.514,,
-ZZE.AS,Estados Árabes,,,2015,0.516,,
-ZZE.AS,Estados Árabes,,,2016,0.518,,
-ZZE.AS,Estados Árabes,,,2017,0.523,,
-ZZE.AS,Estados Árabes,,,2018,0.53,,
-ZZE.AS,Estados Árabes,,,2019,0.534,,
-ZZE.AS,Estados Árabes,,,2020,0.533,,
-ZZE.AS,Estados Árabes,,,2021,0.533,,
-ZZE.AS,Estados Árabes,,,2022,0.534,,
+ZZA.VHHD,Desarrollo humano muy alto,,,2010,0.77,DESHUM_ZZA.VHHD,Países de desarrollo humano muy alto
+ZZA.VHHD,Desarrollo humano muy alto,,,2011,0.777,DESHUM_ZZA.VHHD,Países de desarrollo humano muy alto
+ZZA.VHHD,Desarrollo humano muy alto,,,2012,0.778,DESHUM_ZZA.VHHD,Países de desarrollo humano muy alto
+ZZA.VHHD,Desarrollo humano muy alto,,,2013,0.782,DESHUM_ZZA.VHHD,Países de desarrollo humano muy alto
+ZZA.VHHD,Desarrollo humano muy alto,,,2014,0.786,DESHUM_ZZA.VHHD,Países de desarrollo humano muy alto
+ZZA.VHHD,Desarrollo humano muy alto,,,2015,0.788,DESHUM_ZZA.VHHD,Países de desarrollo humano muy alto
+ZZA.VHHD,Desarrollo humano muy alto,,,2016,0.792,DESHUM_ZZA.VHHD,Países de desarrollo humano muy alto
+ZZA.VHHD,Desarrollo humano muy alto,,,2017,0.795,DESHUM_ZZA.VHHD,Países de desarrollo humano muy alto
+ZZA.VHHD,Desarrollo humano muy alto,,,2018,0.798,DESHUM_ZZA.VHHD,Países de desarrollo humano muy alto
+ZZA.VHHD,Desarrollo humano muy alto,,,2019,0.803,DESHUM_ZZA.VHHD,Países de desarrollo humano muy alto
+ZZA.VHHD,Desarrollo humano muy alto,,,2020,0.797,DESHUM_ZZA.VHHD,Países de desarrollo humano muy alto
+ZZA.VHHD,Desarrollo humano muy alto,,,2021,0.801,DESHUM_ZZA.VHHD,Países de desarrollo humano muy alto
+ZZA.VHHD,Desarrollo humano muy alto,,,2022,0.807,DESHUM_ZZA.VHHD,Países de desarrollo humano muy alto
+ZZB.HHD,Desarrollo humano alto,,,2010,0.551,DESHUM_ZZB.HHD,Países de desarrollo humano alto
+ZZB.HHD,Desarrollo humano alto,,,2011,0.557,DESHUM_ZZB.HHD,Países de desarrollo humano alto
+ZZB.HHD,Desarrollo humano alto,,,2012,0.568,DESHUM_ZZB.HHD,Países de desarrollo humano alto
+ZZB.HHD,Desarrollo humano alto,,,2013,0.584,DESHUM_ZZB.HHD,Países de desarrollo humano alto
+ZZB.HHD,Desarrollo humano alto,,,2014,0.595,DESHUM_ZZB.HHD,Países de desarrollo humano alto
+ZZB.HHD,Desarrollo humano alto,,,2015,0.598,DESHUM_ZZB.HHD,Países de desarrollo humano alto
+ZZB.HHD,Desarrollo humano alto,,,2016,0.602,DESHUM_ZZB.HHD,Países de desarrollo humano alto
+ZZB.HHD,Desarrollo humano alto,,,2017,0.607,DESHUM_ZZB.HHD,Países de desarrollo humano alto
+ZZB.HHD,Desarrollo humano alto,,,2018,0.615,DESHUM_ZZB.HHD,Países de desarrollo humano alto
+ZZB.HHD,Desarrollo humano alto,,,2019,0.622,DESHUM_ZZB.HHD,Países de desarrollo humano alto
+ZZB.HHD,Desarrollo humano alto,,,2020,0.623,DESHUM_ZZB.HHD,Países de desarrollo humano alto
+ZZB.HHD,Desarrollo humano alto,,,2021,0.624,DESHUM_ZZB.HHD,Países de desarrollo humano alto
+ZZB.HHD,Desarrollo humano alto,,,2022,0.628,DESHUM_ZZB.HHD,Países de desarrollo humano alto
+ZZC.MHD,Desarrollo humano medio,,,2010,0.377,DESHUM_ZZC.MHD,Países de desarrollo humano medio
+ZZC.MHD,Desarrollo humano medio,,,2011,0.388,DESHUM_ZZC.MHD,Países de desarrollo humano medio
+ZZC.MHD,Desarrollo humano medio,,,2012,0.392,DESHUM_ZZC.MHD,Países de desarrollo humano medio
+ZZC.MHD,Desarrollo humano medio,,,2013,0.397,DESHUM_ZZC.MHD,Países de desarrollo humano medio
+ZZC.MHD,Desarrollo humano medio,,,2014,0.405,DESHUM_ZZC.MHD,Países de desarrollo humano medio
+ZZC.MHD,Desarrollo humano medio,,,2015,0.419,DESHUM_ZZC.MHD,Países de desarrollo humano medio
+ZZC.MHD,Desarrollo humano medio,,,2016,0.427,DESHUM_ZZC.MHD,Países de desarrollo humano medio
+ZZC.MHD,Desarrollo humano medio,,,2017,0.433,DESHUM_ZZC.MHD,Países de desarrollo humano medio
+ZZC.MHD,Desarrollo humano medio,,,2018,0.434,DESHUM_ZZC.MHD,Países de desarrollo humano medio
+ZZC.MHD,Desarrollo humano medio,,,2019,0.44,DESHUM_ZZC.MHD,Países de desarrollo humano medio
+ZZC.MHD,Desarrollo humano medio,,,2020,0.439,DESHUM_ZZC.MHD,Países de desarrollo humano medio
+ZZC.MHD,Desarrollo humano medio,,,2021,0.438,DESHUM_ZZC.MHD,Países de desarrollo humano medio
+ZZC.MHD,Desarrollo humano medio,,,2022,0.447,DESHUM_ZZC.MHD,Países de desarrollo humano medio
+ZZD.LHD,Desarrollo humano bajo,,,2010,0.294,DESHUM_ZZD.LHD,Países de desarrollo humano bajo
+ZZD.LHD,Desarrollo humano bajo,,,2011,0.302,DESHUM_ZZD.LHD,Países de desarrollo humano bajo
+ZZD.LHD,Desarrollo humano bajo,,,2012,0.307,DESHUM_ZZD.LHD,Países de desarrollo humano bajo
+ZZD.LHD,Desarrollo humano bajo,,,2013,0.313,DESHUM_ZZD.LHD,Países de desarrollo humano bajo
+ZZD.LHD,Desarrollo humano bajo,,,2014,0.319,DESHUM_ZZD.LHD,Países de desarrollo humano bajo
+ZZD.LHD,Desarrollo humano bajo,,,2015,0.322,DESHUM_ZZD.LHD,Países de desarrollo humano bajo
+ZZD.LHD,Desarrollo humano bajo,,,2016,0.327,DESHUM_ZZD.LHD,Países de desarrollo humano bajo
+ZZD.LHD,Desarrollo humano bajo,,,2017,0.33,DESHUM_ZZD.LHD,Países de desarrollo humano bajo
+ZZD.LHD,Desarrollo humano bajo,,,2018,0.332,DESHUM_ZZD.LHD,Países de desarrollo humano bajo
+ZZD.LHD,Desarrollo humano bajo,,,2019,0.337,DESHUM_ZZD.LHD,Países de desarrollo humano bajo
+ZZD.LHD,Desarrollo humano bajo,,,2020,0.338,DESHUM_ZZD.LHD,Países de desarrollo humano bajo
+ZZD.LHD,Desarrollo humano bajo,,,2021,0.339,DESHUM_ZZD.LHD,Países de desarrollo humano bajo
+ZZD.LHD,Desarrollo humano bajo,,,2022,0.341,DESHUM_ZZD.LHD,Países de desarrollo humano bajo
+ZZE.AS,Estados Árabes,,,2010,0.483,DESHUM_ZZE.AS,Estados árabes
+ZZE.AS,Estados Árabes,,,2011,0.493,DESHUM_ZZE.AS,Estados árabes
+ZZE.AS,Estados Árabes,,,2012,0.503,DESHUM_ZZE.AS,Estados árabes
+ZZE.AS,Estados Árabes,,,2013,0.509,DESHUM_ZZE.AS,Estados árabes
+ZZE.AS,Estados Árabes,,,2014,0.514,DESHUM_ZZE.AS,Estados árabes
+ZZE.AS,Estados Árabes,,,2015,0.516,DESHUM_ZZE.AS,Estados árabes
+ZZE.AS,Estados Árabes,,,2016,0.518,DESHUM_ZZE.AS,Estados árabes
+ZZE.AS,Estados Árabes,,,2017,0.523,DESHUM_ZZE.AS,Estados árabes
+ZZE.AS,Estados Árabes,,,2018,0.53,DESHUM_ZZE.AS,Estados árabes
+ZZE.AS,Estados Árabes,,,2019,0.534,DESHUM_ZZE.AS,Estados árabes
+ZZE.AS,Estados Árabes,,,2020,0.533,DESHUM_ZZE.AS,Estados árabes
+ZZE.AS,Estados Árabes,,,2021,0.533,DESHUM_ZZE.AS,Estados árabes
+ZZE.AS,Estados Árabes,,,2022,0.534,DESHUM_ZZE.AS,Estados árabes
 ZZF.EAP,Este de Asia y Pacífico,,,2010,0.564,EAS,Este de Asia y Pacífico
 ZZF.EAP,Este de Asia y Pacífico,,,2011,0.566,EAS,Este de Asia y Pacífico
 ZZF.EAP,Este de Asia y Pacífico,,,2012,0.575,EAS,Este de Asia y Pacífico
@@ -2066,32 +2066,32 @@ ZZH.LAC,América Latina y el Caribe,,,2019,0.605,LCN,América Latina y el Caribe
 ZZH.LAC,América Latina y el Caribe,,,2020,0.598,LCN,América Latina y el Caribe
 ZZH.LAC,América Latina y el Caribe,,,2021,0.595,LCN,América Latina y el Caribe
 ZZH.LAC,América Latina y el Caribe,,,2022,0.605,LCN,América Latina y el Caribe
-ZZI.SA,Asia meridional,,,2010,0.375,,
-ZZI.SA,Asia meridional,,,2011,0.384,,
-ZZI.SA,Asia meridional,,,2012,0.388,,
-ZZI.SA,Asia meridional,,,2013,0.393,,
-ZZI.SA,Asia meridional,,,2014,0.402,,
-ZZI.SA,Asia meridional,,,2015,0.415,,
-ZZI.SA,Asia meridional,,,2016,0.424,,
-ZZI.SA,Asia meridional,,,2017,0.429,,
-ZZI.SA,Asia meridional,,,2018,0.429,,
-ZZI.SA,Asia meridional,,,2019,0.436,,
-ZZI.SA,Asia meridional,,,2020,0.435,,
-ZZI.SA,Asia meridional,,,2021,0.435,,
-ZZI.SA,Asia meridional,,,2022,0.443,,
-ZZJ.SSA,África Subsahariana,,,2010,0.305,,
-ZZJ.SSA,África Subsahariana,,,2011,0.319,,
-ZZJ.SSA,África Subsahariana,,,2012,0.327,,
-ZZJ.SSA,África Subsahariana,,,2013,0.333,,
-ZZJ.SSA,África Subsahariana,,,2014,0.339,,
-ZZJ.SSA,África Subsahariana,,,2015,0.343,,
-ZZJ.SSA,África Subsahariana,,,2016,0.349,,
-ZZJ.SSA,África Subsahariana,,,2017,0.352,,
-ZZJ.SSA,África Subsahariana,,,2018,0.355,,
-ZZJ.SSA,África Subsahariana,,,2019,0.359,,
-ZZJ.SSA,África Subsahariana,,,2020,0.36,,
-ZZJ.SSA,África Subsahariana,,,2021,0.36,,
-ZZJ.SSA,África Subsahariana,,,2022,0.363,,
+ZZI.SA,Asia meridional,,,2010,0.375,DESHUM_ZZI.SA,Asia meridional
+ZZI.SA,Asia meridional,,,2011,0.384,DESHUM_ZZI.SA,Asia meridional
+ZZI.SA,Asia meridional,,,2012,0.388,DESHUM_ZZI.SA,Asia meridional
+ZZI.SA,Asia meridional,,,2013,0.393,DESHUM_ZZI.SA,Asia meridional
+ZZI.SA,Asia meridional,,,2014,0.402,DESHUM_ZZI.SA,Asia meridional
+ZZI.SA,Asia meridional,,,2015,0.415,DESHUM_ZZI.SA,Asia meridional
+ZZI.SA,Asia meridional,,,2016,0.424,DESHUM_ZZI.SA,Asia meridional
+ZZI.SA,Asia meridional,,,2017,0.429,DESHUM_ZZI.SA,Asia meridional
+ZZI.SA,Asia meridional,,,2018,0.429,DESHUM_ZZI.SA,Asia meridional
+ZZI.SA,Asia meridional,,,2019,0.436,DESHUM_ZZI.SA,Asia meridional
+ZZI.SA,Asia meridional,,,2020,0.435,DESHUM_ZZI.SA,Asia meridional
+ZZI.SA,Asia meridional,,,2021,0.435,DESHUM_ZZI.SA,Asia meridional
+ZZI.SA,Asia meridional,,,2022,0.443,DESHUM_ZZI.SA,Asia meridional
+ZZJ.SSA,África Subsahariana,,,2010,0.305,DESHUM_ZZJ.SSA,África Subsahariana
+ZZJ.SSA,África Subsahariana,,,2011,0.319,DESHUM_ZZJ.SSA,África Subsahariana
+ZZJ.SSA,África Subsahariana,,,2012,0.327,DESHUM_ZZJ.SSA,África Subsahariana
+ZZJ.SSA,África Subsahariana,,,2013,0.333,DESHUM_ZZJ.SSA,África Subsahariana
+ZZJ.SSA,África Subsahariana,,,2014,0.339,DESHUM_ZZJ.SSA,África Subsahariana
+ZZJ.SSA,África Subsahariana,,,2015,0.343,DESHUM_ZZJ.SSA,África Subsahariana
+ZZJ.SSA,África Subsahariana,,,2016,0.349,DESHUM_ZZJ.SSA,África Subsahariana
+ZZJ.SSA,África Subsahariana,,,2017,0.352,DESHUM_ZZJ.SSA,África Subsahariana
+ZZJ.SSA,África Subsahariana,,,2018,0.355,DESHUM_ZZJ.SSA,África Subsahariana
+ZZJ.SSA,África Subsahariana,,,2019,0.359,DESHUM_ZZJ.SSA,África Subsahariana
+ZZJ.SSA,África Subsahariana,,,2020,0.36,DESHUM_ZZJ.SSA,África Subsahariana
+ZZJ.SSA,África Subsahariana,,,2021,0.36,DESHUM_ZZJ.SSA,África Subsahariana
+ZZJ.SSA,África Subsahariana,,,2022,0.363,DESHUM_ZZJ.SSA,África Subsahariana
 ZZK.WORLD,Mundo,,,2010,0.522,WLD,Mundo
 ZZK.WORLD,Mundo,,,2011,0.529,WLD,Mundo
 ZZK.WORLD,Mundo,,,2012,0.534,WLD,Mundo
