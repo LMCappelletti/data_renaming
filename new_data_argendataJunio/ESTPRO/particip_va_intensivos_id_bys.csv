@@ -831,32 +831,32 @@ anio,iso3,iso3_desc_fundar,es_agregacion,particip_bys_alta_intensidad,geocodigoF
 2018,EU28,Unión Europea (28 países),1,0.20328264761377,EU28,Unión Europea (28 países)
 2019,EU28,Unión Europea (28 países),1,0.20330759634575,EU28,Unión Europea (28 países)
 2020,EU28,Unión Europea (28 países),1,0.206564653298789,EU28,Unión Europea (28 países)
-1995,EU28XEU15,Unión Europea (28 países exceluyendo EU15),1,0.147214035865298,,
-1996,EU28XEU15,Unión Europea (28 países exceluyendo EU15),1,0.14816110798134,,
-1997,EU28XEU15,Unión Europea (28 países exceluyendo EU15),1,0.15144744424096,,
-1998,EU28XEU15,Unión Europea (28 países exceluyendo EU15),1,0.153459898327673,,
-1999,EU28XEU15,Unión Europea (28 países exceluyendo EU15),1,0.153657552885924,,
-2000,EU28XEU15,Unión Europea (28 países exceluyendo EU15),1,0.163912030943175,,
-2001,EU28XEU15,Unión Europea (28 países exceluyendo EU15),1,0.161003262390224,,
-2002,EU28XEU15,Unión Europea (28 países exceluyendo EU15),1,0.161952029434066,,
-2003,EU28XEU15,Unión Europea (28 países exceluyendo EU15),1,0.168184126943629,,
-2004,EU28XEU15,Unión Europea (28 países exceluyendo EU15),1,0.171327625311498,,
-2005,EU28XEU15,Unión Europea (28 países exceluyendo EU15),1,0.173592005130459,,
-2006,EU28XEU15,Unión Europea (28 países exceluyendo EU15),1,0.178982941571411,,
-2007,EU28XEU15,Unión Europea (28 países exceluyendo EU15),1,0.182819099830775,,
-2008,EU28XEU15,Unión Europea (28 países exceluyendo EU15),1,0.180845553686894,,
-2009,EU28XEU15,Unión Europea (28 países exceluyendo EU15),1,0.175580927821989,,
-2010,EU28XEU15,Unión Europea (28 países exceluyendo EU15),1,0.181960091738427,,
-2011,EU28XEU15,Unión Europea (28 países exceluyendo EU15),1,0.188043749021754,,
-2012,EU28XEU15,Unión Europea (28 países exceluyendo EU15),1,0.188042256798128,,
-2013,EU28XEU15,Unión Europea (28 países exceluyendo EU15),1,0.190317145703384,,
-2014,EU28XEU15,Unión Europea (28 países exceluyendo EU15),1,0.197446846981948,,
-2015,EU28XEU15,Unión Europea (28 países exceluyendo EU15),1,0.20578318835875,,
-2016,EU28XEU15,Unión Europea (28 países exceluyendo EU15),1,0.210453997323763,,
-2017,EU28XEU15,Unión Europea (28 países exceluyendo EU15),1,0.210661244932205,,
-2018,EU28XEU15,Unión Europea (28 países exceluyendo EU15),1,0.210122367703324,,
-2019,EU28XEU15,Unión Europea (28 países exceluyendo EU15),1,0.209198963320211,,
-2020,EU28XEU15,Unión Europea (28 países exceluyendo EU15),1,0.2114581473325,,
+1995,EU28XEU15,Unión Europea (28 países exceluyendo EU15),1,0.147214035865298,EU13,Unión Europea (28 países excluyendo EU15)
+1996,EU28XEU15,Unión Europea (28 países exceluyendo EU15),1,0.14816110798134,EU13,Unión Europea (28 países excluyendo EU15)
+1997,EU28XEU15,Unión Europea (28 países exceluyendo EU15),1,0.15144744424096,EU13,Unión Europea (28 países excluyendo EU15)
+1998,EU28XEU15,Unión Europea (28 países exceluyendo EU15),1,0.153459898327673,EU13,Unión Europea (28 países excluyendo EU15)
+1999,EU28XEU15,Unión Europea (28 países exceluyendo EU15),1,0.153657552885924,EU13,Unión Europea (28 países excluyendo EU15)
+2000,EU28XEU15,Unión Europea (28 países exceluyendo EU15),1,0.163912030943175,EU13,Unión Europea (28 países excluyendo EU15)
+2001,EU28XEU15,Unión Europea (28 países exceluyendo EU15),1,0.161003262390224,EU13,Unión Europea (28 países excluyendo EU15)
+2002,EU28XEU15,Unión Europea (28 países exceluyendo EU15),1,0.161952029434066,EU13,Unión Europea (28 países excluyendo EU15)
+2003,EU28XEU15,Unión Europea (28 países exceluyendo EU15),1,0.168184126943629,EU13,Unión Europea (28 países excluyendo EU15)
+2004,EU28XEU15,Unión Europea (28 países exceluyendo EU15),1,0.171327625311498,EU13,Unión Europea (28 países excluyendo EU15)
+2005,EU28XEU15,Unión Europea (28 países exceluyendo EU15),1,0.173592005130459,EU13,Unión Europea (28 países excluyendo EU15)
+2006,EU28XEU15,Unión Europea (28 países exceluyendo EU15),1,0.178982941571411,EU13,Unión Europea (28 países excluyendo EU15)
+2007,EU28XEU15,Unión Europea (28 países exceluyendo EU15),1,0.182819099830775,EU13,Unión Europea (28 países excluyendo EU15)
+2008,EU28XEU15,Unión Europea (28 países exceluyendo EU15),1,0.180845553686894,EU13,Unión Europea (28 países excluyendo EU15)
+2009,EU28XEU15,Unión Europea (28 países exceluyendo EU15),1,0.175580927821989,EU13,Unión Europea (28 países excluyendo EU15)
+2010,EU28XEU15,Unión Europea (28 países exceluyendo EU15),1,0.181960091738427,EU13,Unión Europea (28 países excluyendo EU15)
+2011,EU28XEU15,Unión Europea (28 países exceluyendo EU15),1,0.188043749021754,EU13,Unión Europea (28 países excluyendo EU15)
+2012,EU28XEU15,Unión Europea (28 países exceluyendo EU15),1,0.188042256798128,EU13,Unión Europea (28 países excluyendo EU15)
+2013,EU28XEU15,Unión Europea (28 países exceluyendo EU15),1,0.190317145703384,EU13,Unión Europea (28 países excluyendo EU15)
+2014,EU28XEU15,Unión Europea (28 países exceluyendo EU15),1,0.197446846981948,EU13,Unión Europea (28 países excluyendo EU15)
+2015,EU28XEU15,Unión Europea (28 países exceluyendo EU15),1,0.20578318835875,EU13,Unión Europea (28 países excluyendo EU15)
+2016,EU28XEU15,Unión Europea (28 países exceluyendo EU15),1,0.210453997323763,EU13,Unión Europea (28 países excluyendo EU15)
+2017,EU28XEU15,Unión Europea (28 países exceluyendo EU15),1,0.210661244932205,EU13,Unión Europea (28 países excluyendo EU15)
+2018,EU28XEU15,Unión Europea (28 países exceluyendo EU15),1,0.210122367703324,EU13,Unión Europea (28 países excluyendo EU15)
+2019,EU28XEU15,Unión Europea (28 países exceluyendo EU15),1,0.209198963320211,EU13,Unión Europea (28 países excluyendo EU15)
+2020,EU28XEU15,Unión Europea (28 países exceluyendo EU15),1,0.2114581473325,EU13,Unión Europea (28 países excluyendo EU15)
 1995,F,África,1,0.126882784261829,X06,África
 1996,F,África,1,0.121674549599259,X06,África
 1997,F,África,1,0.120856419289096,X06,África
@@ -1611,32 +1611,32 @@ anio,iso3,iso3_desc_fundar,es_agregacion,particip_bys_alta_intensidad,geocodigoF
 2018,MYS,Malasia,0,0.157288689260923,MYS,Malasia
 2019,MYS,Malasia,0,0.155959088774888,MYS,Malasia
 2020,MYS,Malasia,0,0.15524694998589,MYS,Malasia
-1995,NAFTA,Países NAFTA,1,0.182997860174945,,
-1996,NAFTA,Países NAFTA,1,0.185005216012694,,
-1997,NAFTA,Países NAFTA,1,0.188340296563919,,
-1998,NAFTA,Países NAFTA,1,0.190212549511222,,
-1999,NAFTA,Países NAFTA,1,0.188352437631168,,
-2000,NAFTA,Países NAFTA,1,0.188522371401354,,
-2001,NAFTA,Países NAFTA,1,0.179614221766279,,
-2002,NAFTA,Países NAFTA,1,0.179850379724886,,
-2003,NAFTA,Países NAFTA,1,0.177425640174164,,
-2004,NAFTA,Países NAFTA,1,0.176498206286577,,
-2005,NAFTA,Países NAFTA,1,0.172377728483983,,
-2006,NAFTA,Países NAFTA,1,0.17455042363201,,
-2007,NAFTA,Países NAFTA,1,0.173227821178773,,
-2008,NAFTA,Países NAFTA,1,0.174489425958312,,
-2009,NAFTA,Países NAFTA,1,0.169483517899066,,
-2010,NAFTA,Países NAFTA,1,0.173126146249259,,
-2011,NAFTA,Países NAFTA,1,0.174754063465222,,
-2012,NAFTA,Países NAFTA,1,0.175397395961714,,
-2013,NAFTA,Países NAFTA,1,0.175230777501307,,
-2014,NAFTA,Países NAFTA,1,0.176021556353548,,
-2015,NAFTA,Países NAFTA,1,0.18100689812041,,
-2016,NAFTA,Países NAFTA,1,0.181961459346416,,
-2017,NAFTA,Países NAFTA,1,0.181699317478592,,
-2018,NAFTA,Países NAFTA,1,0.183506905021234,,
-2019,NAFTA,Países NAFTA,1,0.184219324422189,,
-2020,NAFTA,Países NAFTA,1,0.186253452192264,,
+1995,NAFTA,Países NAFTA,1,0.182997860174945,NAFTA_ESTPRO,Países miembros del NAFTA
+1996,NAFTA,Países NAFTA,1,0.185005216012694,NAFTA_ESTPRO,Países miembros del NAFTA
+1997,NAFTA,Países NAFTA,1,0.188340296563919,NAFTA_ESTPRO,Países miembros del NAFTA
+1998,NAFTA,Países NAFTA,1,0.190212549511222,NAFTA_ESTPRO,Países miembros del NAFTA
+1999,NAFTA,Países NAFTA,1,0.188352437631168,NAFTA_ESTPRO,Países miembros del NAFTA
+2000,NAFTA,Países NAFTA,1,0.188522371401354,NAFTA_ESTPRO,Países miembros del NAFTA
+2001,NAFTA,Países NAFTA,1,0.179614221766279,NAFTA_ESTPRO,Países miembros del NAFTA
+2002,NAFTA,Países NAFTA,1,0.179850379724886,NAFTA_ESTPRO,Países miembros del NAFTA
+2003,NAFTA,Países NAFTA,1,0.177425640174164,NAFTA_ESTPRO,Países miembros del NAFTA
+2004,NAFTA,Países NAFTA,1,0.176498206286577,NAFTA_ESTPRO,Países miembros del NAFTA
+2005,NAFTA,Países NAFTA,1,0.172377728483983,NAFTA_ESTPRO,Países miembros del NAFTA
+2006,NAFTA,Países NAFTA,1,0.17455042363201,NAFTA_ESTPRO,Países miembros del NAFTA
+2007,NAFTA,Países NAFTA,1,0.173227821178773,NAFTA_ESTPRO,Países miembros del NAFTA
+2008,NAFTA,Países NAFTA,1,0.174489425958312,NAFTA_ESTPRO,Países miembros del NAFTA
+2009,NAFTA,Países NAFTA,1,0.169483517899066,NAFTA_ESTPRO,Países miembros del NAFTA
+2010,NAFTA,Países NAFTA,1,0.173126146249259,NAFTA_ESTPRO,Países miembros del NAFTA
+2011,NAFTA,Países NAFTA,1,0.174754063465222,NAFTA_ESTPRO,Países miembros del NAFTA
+2012,NAFTA,Países NAFTA,1,0.175397395961714,NAFTA_ESTPRO,Países miembros del NAFTA
+2013,NAFTA,Países NAFTA,1,0.175230777501307,NAFTA_ESTPRO,Países miembros del NAFTA
+2014,NAFTA,Países NAFTA,1,0.176021556353548,NAFTA_ESTPRO,Países miembros del NAFTA
+2015,NAFTA,Países NAFTA,1,0.18100689812041,NAFTA_ESTPRO,Países miembros del NAFTA
+2016,NAFTA,Países NAFTA,1,0.181961459346416,NAFTA_ESTPRO,Países miembros del NAFTA
+2017,NAFTA,Países NAFTA,1,0.181699317478592,NAFTA_ESTPRO,Países miembros del NAFTA
+2018,NAFTA,Países NAFTA,1,0.183506905021234,NAFTA_ESTPRO,Países miembros del NAFTA
+2019,NAFTA,Países NAFTA,1,0.184219324422189,NAFTA_ESTPRO,Países miembros del NAFTA
+2020,NAFTA,Países NAFTA,1,0.186253452192264,NAFTA_ESTPRO,Países miembros del NAFTA
 1995,NGA,Nigeria,0,0.0472674128697739,NGA,Nigeria
 1996,NGA,Nigeria,0,0.0438659645763523,NGA,Nigeria
 1997,NGA,Nigeria,0,0.0452345990300495,NGA,Nigeria

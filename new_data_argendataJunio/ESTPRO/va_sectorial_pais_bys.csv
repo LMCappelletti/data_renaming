@@ -207,7 +207,7 @@ anio,iso3,iso3_desc_fundar,es_agregacion,particip_servicios_pib,geocodigoFundar,
 1970,SV1,Unión Soviética,0,0.379600466115555,SVU,Unión Soviética
 1970,EGY,Egipto,0,0.423954010717662,EGY,Egipto
 1970,GBR,Reino Unido,0,0.591476398670904,GBR,Reino Unido
-1970,TZ1,Tanzania (continental),0,0.633911370857399,,
+1970,TZ1,Tanzania (continental),0,0.633911370857399,TAN,Tanganica (ex)
 1970,TZ2,Zanzibar,0,,ZPM,Zanzibar
 1970,USA,Estados Unidos,0,0.655676773516252,USA,Estados Unidos
 1970,BFA,Burkina Faso,0,0.483950190344104,BFA,Burkina Faso
@@ -427,7 +427,7 @@ anio,iso3,iso3_desc_fundar,es_agregacion,particip_servicios_pib,geocodigoFundar,
 1971,SV1,Unión Soviética,0,0.381979580380317,SVU,Unión Soviética
 1971,EGY,Egipto,0,0.489116560374556,EGY,Egipto
 1971,GBR,Reino Unido,0,0.597308429269401,GBR,Reino Unido
-1971,TZ1,Tanzania (continental),0,0.631758557483535,,
+1971,TZ1,Tanzania (continental),0,0.631758557483535,TAN,Tanganica (ex)
 1971,TZ2,Zanzibar,0,,ZPM,Zanzibar
 1971,USA,Estados Unidos,0,0.661811218644618,USA,Estados Unidos
 1971,BFA,Burkina Faso,0,0.479273611464367,BFA,Burkina Faso
@@ -647,7 +647,7 @@ anio,iso3,iso3_desc_fundar,es_agregacion,particip_servicios_pib,geocodigoFundar,
 1972,SV1,Unión Soviética,0,0.391050183936845,SVU,Unión Soviética
 1972,EGY,Egipto,0,0.491043334847074,EGY,Egipto
 1972,GBR,Reino Unido,0,0.603109641669918,GBR,Reino Unido
-1972,TZ1,Tanzania (continental),0,0.634940772286143,,
+1972,TZ1,Tanzania (continental),0,0.634940772286143,TAN,Tanganica (ex)
 1972,TZ2,Zanzibar,0,,ZPM,Zanzibar
 1972,USA,Estados Unidos,0,0.660433535666043,USA,Estados Unidos
 1972,BFA,Burkina Faso,0,0.451752101019736,BFA,Burkina Faso
@@ -867,7 +867,7 @@ anio,iso3,iso3_desc_fundar,es_agregacion,particip_servicios_pib,geocodigoFundar,
 1973,SV1,Unión Soviética,0,0.390797786942376,SVU,Unión Soviética
 1973,EGY,Egipto,0,0.493385022242727,EGY,Egipto
 1973,GBR,Reino Unido,0,0.608863876609883,GBR,Reino Unido
-1973,TZ1,Tanzania (continental),0,0.634614896600374,,
+1973,TZ1,Tanzania (continental),0,0.634614896600374,TAN,Tanganica (ex)
 1973,TZ2,Zanzibar,0,,ZPM,Zanzibar
 1973,USA,Estados Unidos,0,0.653331996214148,USA,Estados Unidos
 1973,BFA,Burkina Faso,0,0.448055437805762,BFA,Burkina Faso
@@ -1087,7 +1087,7 @@ anio,iso3,iso3_desc_fundar,es_agregacion,particip_servicios_pib,geocodigoFundar,
 1974,SV1,Unión Soviética,0,0.387827790067216,SVU,Unión Soviética
 1974,EGY,Egipto,0,0.466436005807048,EGY,Egipto
 1974,GBR,Reino Unido,0,0.614610725920188,GBR,Reino Unido
-1974,TZ1,Tanzania (continental),0,0.652128883269077,,
+1974,TZ1,Tanzania (continental),0,0.652128883269077,TAN,Tanganica (ex)
 1974,TZ2,Zanzibar,0,,ZPM,Zanzibar
 1974,USA,Estados Unidos,0,0.660202517157191,USA,Estados Unidos
 1974,BFA,Burkina Faso,0,0.448827142860537,BFA,Burkina Faso
@@ -1307,7 +1307,7 @@ anio,iso3,iso3_desc_fundar,es_agregacion,particip_servicios_pib,geocodigoFundar,
 1975,SV1,Unión Soviética,0,0.405997425998012,SVU,Unión Soviética
 1975,EGY,Egipto,0,0.4491142016231,EGY,Egipto
 1975,GBR,Reino Unido,0,0.620325704511816,GBR,Reino Unido
-1975,TZ1,Tanzania (continental),0,0.644418866931134,,
+1975,TZ1,Tanzania (continental),0,0.644418866931134,TAN,Tanganica (ex)
 1975,TZ2,Zanzibar,0,,ZPM,Zanzibar
 1975,USA,Estados Unidos,0,0.666036565549004,USA,Estados Unidos
 1975,BFA,Burkina Faso,0,0.425237382682151,BFA,Burkina Faso
@@ -1527,7 +1527,7 @@ anio,iso3,iso3_desc_fundar,es_agregacion,particip_servicios_pib,geocodigoFundar,
 1976,SV1,Unión Soviética,0,0.407777352138216,SVU,Unión Soviética
 1976,EGY,Egipto,0,0.443542172818457,EGY,Egipto
 1976,GBR,Reino Unido,0,0.618931328932487,GBR,Reino Unido
-1976,TZ1,Tanzania (continental),0,0.610746606517041,,
+1976,TZ1,Tanzania (continental),0,0.610746606517041,TAN,Tanganica (ex)
 1976,TZ2,Zanzibar,0,,ZPM,Zanzibar
 1976,USA,Estados Unidos,0,0.663555562116567,USA,Estados Unidos
 1976,BFA,Burkina Faso,0,0.430075221084524,BFA,Burkina Faso
@@ -1747,7 +1747,7 @@ anio,iso3,iso3_desc_fundar,es_agregacion,particip_servicios_pib,geocodigoFundar,
 1977,SV1,Unión Soviética,0,0.406622610878803,SVU,Unión Soviética
 1977,EGY,Egipto,0,0.458453651785256,EGY,Egipto
 1977,GBR,Reino Unido,0,0.617540681481186,GBR,Reino Unido
-1977,TZ1,Tanzania (continental),0,0.59942534642176,,
+1977,TZ1,Tanzania (continental),0,0.59942534642176,TAN,Tanganica (ex)
 1977,TZ2,Zanzibar,0,,ZPM,Zanzibar
 1977,USA,Estados Unidos,0,0.661660776916708,USA,Estados Unidos
 1977,BFA,Burkina Faso,0,0.450211921782825,BFA,Burkina Faso
@@ -1967,7 +1967,7 @@ anio,iso3,iso3_desc_fundar,es_agregacion,particip_servicios_pib,geocodigoFundar,
 1978,SV1,Unión Soviética,0,0.405556198138265,SVU,Unión Soviética
 1978,EGY,Egipto,0,0.450587170075185,EGY,Egipto
 1978,GBR,Reino Unido,0,0.616139170201762,GBR,Reino Unido
-1978,TZ1,Tanzania (continental),0,0.597428307579242,,
+1978,TZ1,Tanzania (continental),0,0.597428307579242,TAN,Tanganica (ex)
 1978,TZ2,Zanzibar,0,,ZPM,Zanzibar
 1978,USA,Estados Unidos,0,0.662689902759622,USA,Estados Unidos
 1978,BFA,Burkina Faso,0,0.445938054260268,BFA,Burkina Faso
@@ -2187,7 +2187,7 @@ anio,iso3,iso3_desc_fundar,es_agregacion,particip_servicios_pib,geocodigoFundar,
 1979,SV1,Unión Soviética,0,0.413316197099775,SVU,Unión Soviética
 1979,EGY,Egipto,0,0.462743531713021,EGY,Egipto
 1979,GBR,Reino Unido,0,0.614740338031418,GBR,Reino Unido
-1979,TZ1,Tanzania (continental),0,0.600222913826779,,
+1979,TZ1,Tanzania (continental),0,0.600222913826779,TAN,Tanganica (ex)
 1979,TZ2,Zanzibar,0,,ZPM,Zanzibar
 1979,USA,Estados Unidos,0,0.663215748105599,USA,Estados Unidos
 1979,BFA,Burkina Faso,0,0.476317726531214,BFA,Burkina Faso
@@ -2407,7 +2407,7 @@ anio,iso3,iso3_desc_fundar,es_agregacion,particip_servicios_pib,geocodigoFundar,
 1980,SV1,Unión Soviética,0,0.427489225154946,SVU,Unión Soviética
 1980,EGY,Egipto,0,0.427322522077319,EGY,Egipto
 1980,GBR,Reino Unido,0,0.613348955012916,GBR,Reino Unido
-1980,TZ1,Tanzania (continental),0,0.61942476095402,,
+1980,TZ1,Tanzania (continental),0,0.61942476095402,TAN,Tanganica (ex)
 1980,TZ2,Zanzibar,0,,ZPM,Zanzibar
 1980,USA,Estados Unidos,0,0.671993400793854,USA,Estados Unidos
 1980,BFA,Burkina Faso,0,0.459043073412703,BFA,Burkina Faso
@@ -2627,7 +2627,7 @@ anio,iso3,iso3_desc_fundar,es_agregacion,particip_servicios_pib,geocodigoFundar,
 1981,SV1,Unión Soviética,0,0.432262259569258,SVU,Unión Soviética
 1981,EGY,Egipto,0,0.446024919374473,EGY,Egipto
 1981,GBR,Reino Unido,0,0.619407771433083,GBR,Reino Unido
-1981,TZ1,Tanzania (continental),0,0.621010289657426,,
+1981,TZ1,Tanzania (continental),0,0.621010289657426,TAN,Tanganica (ex)
 1981,TZ2,Zanzibar,0,,ZPM,Zanzibar
 1981,USA,Estados Unidos,0,0.667936489320756,USA,Estados Unidos
 1981,BFA,Burkina Faso,0,0.526703896301505,BFA,Burkina Faso
@@ -2847,7 +2847,7 @@ anio,iso3,iso3_desc_fundar,es_agregacion,particip_servicios_pib,geocodigoFundar,
 1982,SV1,Unión Soviética,0,0.428907318593237,SVU,Unión Soviética
 1982,EGY,Egipto,0,0.479887545460721,EGY,Egipto
 1982,GBR,Reino Unido,0,0.625417205765853,GBR,Reino Unido
-1982,TZ1,Tanzania (continental),0,0.612253269591312,,
+1982,TZ1,Tanzania (continental),0,0.612253269591312,TAN,Tanganica (ex)
 1982,TZ2,Zanzibar,0,,ZPM,Zanzibar
 1982,USA,Estados Unidos,0,0.682608927161082,USA,Estados Unidos
 1982,BFA,Burkina Faso,0,0.509067030923428,BFA,Burkina Faso
@@ -3067,7 +3067,7 @@ anio,iso3,iso3_desc_fundar,es_agregacion,particip_servicios_pib,geocodigoFundar,
 1983,SV1,Unión Soviética,0,0.428274631294961,SVU,Unión Soviética
 1983,EGY,Egipto,0,0.48260514495419,EGY,Egipto
 1983,GBR,Reino Unido,0,0.631365058940636,GBR,Reino Unido
-1983,TZ1,Tanzania (continental),0,0.614682208302017,,
+1983,TZ1,Tanzania (continental),0,0.614682208302017,TAN,Tanganica (ex)
 1983,TZ2,Zanzibar,0,,ZPM,Zanzibar
 1983,USA,Estados Unidos,0,0.695546469613854,USA,Estados Unidos
 1983,BFA,Burkina Faso,0,0.508396137690806,BFA,Burkina Faso
@@ -3287,7 +3287,7 @@ anio,iso3,iso3_desc_fundar,es_agregacion,particip_servicios_pib,geocodigoFundar,
 1984,SV1,Unión Soviética,0,0.426380832659945,SVU,Unión Soviética
 1984,EGY,Egipto,0,0.493727996704581,EGY,Egipto
 1984,GBR,Reino Unido,0,0.637263370556058,GBR,Reino Unido
-1984,TZ1,Tanzania (continental),0,0.606690010590376,,
+1984,TZ1,Tanzania (continental),0,0.606690010590376,TAN,Tanganica (ex)
 1984,TZ2,Zanzibar,0,,ZPM,Zanzibar
 1984,USA,Estados Unidos,0,0.690382230582544,USA,Estados Unidos
 1984,BFA,Burkina Faso,0,0.476269413237791,BFA,Burkina Faso
@@ -3507,7 +3507,7 @@ anio,iso3,iso3_desc_fundar,es_agregacion,particip_servicios_pib,geocodigoFundar,
 1985,SV1,Unión Soviética,0,0.435135135135135,SVU,Unión Soviética
 1985,EGY,Egipto,0,0.49879150600396,EGY,Egipto
 1985,GBR,Reino Unido,0,0.643099466717058,GBR,Reino Unido
-1985,TZ1,Tanzania (continental),0,0.594046860558908,,
+1985,TZ1,Tanzania (continental),0,0.594046860558908,TAN,Tanganica (ex)
 1985,TZ2,Zanzibar,0,,ZPM,Zanzibar
 1985,USA,Estados Unidos,0,0.700238120040825,USA,Estados Unidos
 1985,BFA,Burkina Faso,0,0.451692540902613,BFA,Burkina Faso
@@ -3727,7 +3727,7 @@ anio,iso3,iso3_desc_fundar,es_agregacion,particip_servicios_pib,geocodigoFundar,
 1986,SV1,Unión Soviética,0,0.436192861615529,SVU,Unión Soviética
 1986,EGY,Egipto,0,0.510647475325081,EGY,Egipto
 1986,GBR,Reino Unido,0,0.649047106191358,GBR,Reino Unido
-1986,TZ1,Tanzania (continental),0,0.561130886348395,,
+1986,TZ1,Tanzania (continental),0,0.561130886348395,TAN,Tanganica (ex)
 1986,TZ2,Zanzibar,0,,ZPM,Zanzibar
 1986,USA,Estados Unidos,0,0.712352595683847,USA,Estados Unidos
 1986,BFA,Burkina Faso,0,0.481825607637091,BFA,Burkina Faso
@@ -3947,7 +3947,7 @@ anio,iso3,iso3_desc_fundar,es_agregacion,particip_servicios_pib,geocodigoFundar,
 1987,SV1,Unión Soviética,0,0.434424242424242,SVU,Unión Soviética
 1987,EGY,Egipto,0,0.518691684600273,EGY,Egipto
 1987,GBR,Reino Unido,0,0.655017202673844,GBR,Reino Unido
-1987,TZ1,Tanzania (continental),0,0.566377228778194,,
+1987,TZ1,Tanzania (continental),0,0.566377228778194,TAN,Tanganica (ex)
 1987,TZ2,Zanzibar,0,,ZPM,Zanzibar
 1987,USA,Estados Unidos,0,0.715395754527703,USA,Estados Unidos
 1987,BFA,Burkina Faso,0,0.480628395488083,BFA,Burkina Faso
@@ -4167,7 +4167,7 @@ anio,iso3,iso3_desc_fundar,es_agregacion,particip_servicios_pib,geocodigoFundar,
 1988,SV1,Unión Soviética,0,0.435572309801234,SVU,Unión Soviética
 1988,EGY,Egipto,0,0.514352755806643,EGY,Egipto
 1988,GBR,Reino Unido,0,0.661012468047879,GBR,Reino Unido
-1988,TZ1,Tanzania (continental),0,0.534731957380062,,
+1988,TZ1,Tanzania (continental),0,0.534731957380062,TAN,Tanganica (ex)
 1988,TZ2,Zanzibar,0,,ZPM,Zanzibar
 1988,USA,Estados Unidos,0,0.715461033513288,USA,Estados Unidos
 1988,BFA,Burkina Faso,0,0.481601333468538,BFA,Burkina Faso
@@ -4387,7 +4387,7 @@ anio,iso3,iso3_desc_fundar,es_agregacion,particip_servicios_pib,geocodigoFundar,
 1989,SV1,Unión Soviética,0,0.440595701939058,SVU,Unión Soviética
 1989,EGY,Egipto,0,0.513664614739403,EGY,Egipto
 1989,GBR,Reino Unido,0,0.667035910575214,GBR,Reino Unido
-1989,TZ1,Tanzania (continental),0,0.542837804536431,,
+1989,TZ1,Tanzania (continental),0,0.542837804536431,TAN,Tanganica (ex)
 1989,TZ2,Zanzibar,0,,ZPM,Zanzibar
 1989,USA,Estados Unidos,0,0.720255362808831,USA,Estados Unidos
 1989,BFA,Burkina Faso,0,0.503779180491942,BFA,Burkina Faso
@@ -4607,7 +4607,7 @@ anio,iso3,iso3_desc_fundar,es_agregacion,particip_servicios_pib,geocodigoFundar,
 1990,SV1,Unión Soviética,0,0.444157588094302,SVU,Unión Soviética
 1990,EGY,Egipto,0,0.508894653373036,EGY,Egipto
 1990,GBR,Reino Unido,0,0.69888070045456,GBR,Reino Unido
-1990,TZ1,Tanzania (continental),0,0.543756257493191,,
+1990,TZ1,Tanzania (continental),0,0.543756257493191,TAN,Tanganica (ex)
 1990,TZ2,Zanzibar,0,0.540430013444318,ZPM,Zanzibar
 1990,USA,Estados Unidos,0,0.726723766513545,USA,Estados Unidos
 1990,BFA,Burkina Faso,0,0.517356674268683,BFA,Burkina Faso
@@ -4827,7 +4827,7 @@ anio,iso3,iso3_desc_fundar,es_agregacion,particip_servicios_pib,geocodigoFundar,
 1991,SV1,Unión Soviética,0,,SVU,Unión Soviética
 1991,EGY,Egipto,0,0.488243149096723,EGY,Egipto
 1991,GBR,Reino Unido,0,0.705461652560827,GBR,Reino Unido
-1991,TZ1,Tanzania (continental),0,0.536459782873451,,
+1991,TZ1,Tanzania (continental),0,0.536459782873451,TAN,Tanganica (ex)
 1991,TZ2,Zanzibar,0,0.529410426690215,ZPM,Zanzibar
 1991,USA,Estados Unidos,0,0.739345559066397,USA,Estados Unidos
 1991,BFA,Burkina Faso,0,0.513355094987614,BFA,Burkina Faso
@@ -5047,7 +5047,7 @@ anio,iso3,iso3_desc_fundar,es_agregacion,particip_servicios_pib,geocodigoFundar,
 1992,SV1,Unión Soviética,0,,SVU,Unión Soviética
 1992,EGY,Egipto,0,0.493875762035808,EGY,Egipto
 1992,GBR,Reino Unido,0,0.711954551952538,GBR,Reino Unido
-1992,TZ1,Tanzania (continental),0,0.522414969235093,,
+1992,TZ1,Tanzania (continental),0,0.522414969235093,TAN,Tanganica (ex)
 1992,TZ2,Zanzibar,0,0.545304286741326,ZPM,Zanzibar
 1992,USA,Estados Unidos,0,0.745477932252122,USA,Estados Unidos
 1992,BFA,Burkina Faso,0,0.513438220327687,BFA,Burkina Faso
@@ -5267,7 +5267,7 @@ anio,iso3,iso3_desc_fundar,es_agregacion,particip_servicios_pib,geocodigoFundar,
 1993,SV1,Unión Soviética,0,,SVU,Unión Soviética
 1993,EGY,Egipto,0,0.502141488781867,EGY,Egipto
 1993,GBR,Reino Unido,0,0.71963086526101,GBR,Reino Unido
-1993,TZ1,Tanzania (continental),0,0.522614566694143,,
+1993,TZ1,Tanzania (continental),0,0.522614566694143,TAN,Tanganica (ex)
 1993,TZ2,Zanzibar,0,0.544167122974681,ZPM,Zanzibar
 1993,USA,Estados Unidos,0,0.747241485568389,USA,Estados Unidos
 1993,BFA,Burkina Faso,0,0.50990257982009,BFA,Burkina Faso
@@ -5487,7 +5487,7 @@ anio,iso3,iso3_desc_fundar,es_agregacion,particip_servicios_pib,geocodigoFundar,
 1994,SV1,Unión Soviética,0,,SVU,Unión Soviética
 1994,EGY,Egipto,0,0.501947571496001,EGY,Egipto
 1994,GBR,Reino Unido,0,0.715706584059953,GBR,Reino Unido
-1994,TZ1,Tanzania (continental),0,0.526386951637172,,
+1994,TZ1,Tanzania (continental),0,0.526386951637172,TAN,Tanganica (ex)
 1994,TZ2,Zanzibar,0,0.54152458269363,ZPM,Zanzibar
 1994,USA,Estados Unidos,0,0.743329997194106,USA,Estados Unidos
 1994,BFA,Burkina Faso,0,0.471399558615862,BFA,Burkina Faso
@@ -5707,7 +5707,7 @@ anio,iso3,iso3_desc_fundar,es_agregacion,particip_servicios_pib,geocodigoFundar,
 1995,SV1,Unión Soviética,0,,SVU,Unión Soviética
 1995,EGY,Egipto,0,0.50735524256751,EGY,Egipto
 1995,GBR,Reino Unido,0,0.717928736566586,GBR,Reino Unido
-1995,TZ1,Tanzania (continental),0,0.507487385951457,,
+1995,TZ1,Tanzania (continental),0,0.507487385951457,TAN,Tanganica (ex)
 1995,TZ2,Zanzibar,0,0.562287404376308,ZPM,Zanzibar
 1995,USA,Estados Unidos,0,0.745148655599124,USA,Estados Unidos
 1995,BFA,Burkina Faso,0,0.478222166809195,BFA,Burkina Faso
@@ -5927,7 +5927,7 @@ anio,iso3,iso3_desc_fundar,es_agregacion,particip_servicios_pib,geocodigoFundar,
 1996,SV1,Unión Soviética,0,,SVU,Unión Soviética
 1996,EGY,Egipto,0,0.517088925719375,EGY,Egipto
 1996,GBR,Reino Unido,0,0.718743838282667,GBR,Reino Unido
-1996,TZ1,Tanzania (continental),0,0.501297562083137,,
+1996,TZ1,Tanzania (continental),0,0.501297562083137,TAN,Tanganica (ex)
 1996,TZ2,Zanzibar,0,0.586195513557015,ZPM,Zanzibar
 1996,USA,Estados Unidos,0,0.747650241648545,USA,Estados Unidos
 1996,BFA,Burkina Faso,0,0.454435862369006,BFA,Burkina Faso
@@ -6147,7 +6147,7 @@ anio,iso3,iso3_desc_fundar,es_agregacion,particip_servicios_pib,geocodigoFundar,
 1997,SV1,Unión Soviética,0,,SVU,Unión Soviética
 1997,EGY,Egipto,0,0.513300299004897,EGY,Egipto
 1997,GBR,Reino Unido,0,0.728273165524803,GBR,Reino Unido
-1997,TZ1,Tanzania (continental),0,0.502539807934158,,
+1997,TZ1,Tanzania (continental),0,0.502539807934158,TAN,Tanganica (ex)
 1997,TZ2,Zanzibar,0,0.597921022977028,ZPM,Zanzibar
 1997,USA,Estados Unidos,0,0.752891251632158,USA,Estados Unidos
 1997,BFA,Burkina Faso,0,0.462038641506572,BFA,Burkina Faso
@@ -6367,7 +6367,7 @@ anio,iso3,iso3_desc_fundar,es_agregacion,particip_servicios_pib,geocodigoFundar,
 1998,SV1,Unión Soviética,0,,SVU,Unión Soviética
 1998,EGY,Egipto,0,0.523149805785211,EGY,Egipto
 1998,GBR,Reino Unido,0,0.73464504534942,GBR,Reino Unido
-1998,TZ1,Tanzania (continental),0,0.498990683216556,,
+1998,TZ1,Tanzania (continental),0,0.498990683216556,TAN,Tanganica (ex)
 1998,TZ2,Zanzibar,0,0.598721379932712,ZPM,Zanzibar
 1998,USA,Estados Unidos,0,0.759638514333635,USA,Estados Unidos
 1998,BFA,Burkina Faso,0,0.456703526426251,BFA,Burkina Faso
@@ -6587,7 +6587,7 @@ anio,iso3,iso3_desc_fundar,es_agregacion,particip_servicios_pib,geocodigoFundar,
 1999,SV1,Unión Soviética,0,,SVU,Unión Soviética
 1999,EGY,Egipto,0,0.538259217965128,EGY,Egipto
 1999,GBR,Reino Unido,0,0.739046235519689,GBR,Reino Unido
-1999,TZ1,Tanzania (continental),0,0.507707120054195,,
+1999,TZ1,Tanzania (continental),0,0.507707120054195,TAN,Tanganica (ex)
 1999,TZ2,Zanzibar,0,0.586693182059512,ZPM,Zanzibar
 1999,USA,Estados Unidos,0,0.762287933218431,USA,Estados Unidos
 1999,BFA,Burkina Faso,0,0.469223066410088,BFA,Burkina Faso
@@ -6807,7 +6807,7 @@ anio,iso3,iso3_desc_fundar,es_agregacion,particip_servicios_pib,geocodigoFundar,
 2000,SV1,Unión Soviética,0,,SVU,Unión Soviética
 2000,EGY,Egipto,0,0.528634375455175,EGY,Egipto
 2000,GBR,Reino Unido,0,0.73868953889308,GBR,Reino Unido
-2000,TZ1,Tanzania (continental),0,0.515527671415727,,
+2000,TZ1,Tanzania (continental),0,0.515527671415727,TAN,Tanganica (ex)
 2000,TZ2,Zanzibar,0,0.597750500255314,ZPM,Zanzibar
 2000,USA,Estados Unidos,0,0.763335544542865,USA,Estados Unidos
 2000,BFA,Burkina Faso,0,0.505069091278196,BFA,Burkina Faso
@@ -7027,7 +7027,7 @@ anio,iso3,iso3_desc_fundar,es_agregacion,particip_servicios_pib,geocodigoFundar,
 2001,SV1,Unión Soviética,0,,SVU,Unión Soviética
 2001,EGY,Egipto,0,0.534666692769467,EGY,Egipto
 2001,GBR,Reino Unido,0,0.750186448288604,GBR,Reino Unido
-2001,TZ1,Tanzania (continental),0,0.518136183289162,,
+2001,TZ1,Tanzania (continental),0,0.518136183289162,TAN,Tanganica (ex)
 2001,TZ2,Zanzibar,0,0.580044621269927,ZPM,Zanzibar
 2001,USA,Estados Unidos,0,0.773823473823453,USA,Estados Unidos
 2001,BFA,Burkina Faso,0,0.493794004420431,BFA,Burkina Faso
@@ -7247,7 +7247,7 @@ anio,iso3,iso3_desc_fundar,es_agregacion,particip_servicios_pib,geocodigoFundar,
 2002,SV1,Unión Soviética,0,,SVU,Unión Soviética
 2002,EGY,Egipto,0,0.532317366487053,EGY,Egipto
 2002,GBR,Reino Unido,0,0.753472672379139,GBR,Reino Unido
-2002,TZ1,Tanzania (continental),0,0.502526641893864,,
+2002,TZ1,Tanzania (continental),0,0.502526641893864,TAN,Tanganica (ex)
 2002,TZ2,Zanzibar,0,0.582705090267186,ZPM,Zanzibar
 2002,USA,Estados Unidos,0,0.782406602556458,USA,Estados Unidos
 2002,BFA,Burkina Faso,0,0.497827975018833,BFA,Burkina Faso
@@ -7467,7 +7467,7 @@ anio,iso3,iso3_desc_fundar,es_agregacion,particip_servicios_pib,geocodigoFundar,
 2003,SV1,Unión Soviética,0,,SVU,Unión Soviética
 2003,EGY,Egipto,0,0.522621874724423,EGY,Egipto
 2003,GBR,Reino Unido,0,0.759067942928364,GBR,Reino Unido
-2003,TZ1,Tanzania (continental),0,0.485805992280612,,
+2003,TZ1,Tanzania (continental),0,0.485805992280612,TAN,Tanganica (ex)
 2003,TZ2,Zanzibar,0,0.60031791128775,ZPM,Zanzibar
 2003,USA,Estados Unidos,0,0.780140358227716,USA,Estados Unidos
 2003,BFA,Burkina Faso,0,0.480366022217107,BFA,Burkina Faso
@@ -7687,7 +7687,7 @@ anio,iso3,iso3_desc_fundar,es_agregacion,particip_servicios_pib,geocodigoFundar,
 2004,SV1,Unión Soviética,0,,SVU,Unión Soviética
 2004,EGY,Egipto,0,0.49079518015885,EGY,Egipto
 2004,GBR,Reino Unido,0,0.766804297582085,GBR,Reino Unido
-2004,TZ1,Tanzania (continental),0,0.47827243210938,,
+2004,TZ1,Tanzania (continental),0,0.47827243210938,TAN,Tanganica (ex)
 2004,TZ2,Zanzibar,0,0.588520386380491,ZPM,Zanzibar
 2004,USA,Estados Unidos,0,0.77624804577191,USA,Estados Unidos
 2004,BFA,Burkina Faso,0,0.502361816327376,BFA,Burkina Faso
@@ -7907,7 +7907,7 @@ anio,iso3,iso3_desc_fundar,es_agregacion,particip_servicios_pib,geocodigoFundar,
 2005,SV1,Unión Soviética,0,,SVU,Unión Soviética
 2005,EGY,Egipto,0,0.487739025825329,EGY,Egipto
 2005,GBR,Reino Unido,0,0.768948635850611,GBR,Reino Unido
-2005,TZ1,Tanzania (continental),0,0.488559861123921,,
+2005,TZ1,Tanzania (continental),0,0.488559861123921,TAN,Tanganica (ex)
 2005,TZ2,Zanzibar,0,0.594695129347528,ZPM,Zanzibar
 2005,USA,Estados Unidos,0,0.775258064021351,USA,Estados Unidos
 2005,BFA,Burkina Faso,0,0.486952888695227,BFA,Burkina Faso
@@ -8127,7 +8127,7 @@ anio,iso3,iso3_desc_fundar,es_agregacion,particip_servicios_pib,geocodigoFundar,
 2006,SV1,Unión Soviética,0,,SVU,Unión Soviética
 2006,EGY,Egipto,0,0.475011447246905,EGY,Egipto
 2006,GBR,Reino Unido,0,0.770169096790396,GBR,Reino Unido
-2006,TZ1,Tanzania (continental),0,0.47280283537702,,
+2006,TZ1,Tanzania (continental),0,0.47280283537702,TAN,Tanganica (ex)
 2006,TZ2,Zanzibar,0,0.52974364579169,ZPM,Zanzibar
 2006,USA,Estados Unidos,0,0.772107095550731,USA,Estados Unidos
 2006,BFA,Burkina Faso,0,0.50756799143426,BFA,Burkina Faso
@@ -8347,7 +8347,7 @@ anio,iso3,iso3_desc_fundar,es_agregacion,particip_servicios_pib,geocodigoFundar,
 2007,SV1,Unión Soviética,0,,SVU,Unión Soviética
 2007,EGY,Egipto,0,0.491656937222633,EGY,Egipto
 2007,GBR,Reino Unido,0,0.774440027680307,GBR,Reino Unido
-2007,TZ1,Tanzania (continental),0,0.495298986595657,,
+2007,TZ1,Tanzania (continental),0,0.495298986595657,TAN,Tanganica (ex)
 2007,TZ2,Zanzibar,0,0.54331851905157,ZPM,Zanzibar
 2007,USA,Estados Unidos,0,0.77280264194223,USA,Estados Unidos
 2007,BFA,Burkina Faso,0,0.520477720536638,BFA,Burkina Faso
@@ -8567,7 +8567,7 @@ anio,iso3,iso3_desc_fundar,es_agregacion,particip_servicios_pib,geocodigoFundar,
 2008,SV1,Unión Soviética,0,,SVU,Unión Soviética
 2008,EGY,Egipto,0,0.4886165327841,EGY,Egipto
 2008,GBR,Reino Unido,0,0.77159518260111,GBR,Reino Unido
-2008,TZ1,Tanzania (continental),0,0.473409743935393,,
+2008,TZ1,Tanzania (continental),0,0.473409743935393,TAN,Tanganica (ex)
 2008,TZ2,Zanzibar,0,0.531943014429164,ZPM,Zanzibar
 2008,USA,Estados Unidos,0,0.778703841622756,USA,Estados Unidos
 2008,BFA,Burkina Faso,0,0.484962524475528,BFA,Burkina Faso
@@ -8787,7 +8787,7 @@ anio,iso3,iso3_desc_fundar,es_agregacion,particip_servicios_pib,geocodigoFundar,
 2009,SV1,Unión Soviética,0,,SVU,Unión Soviética
 2009,EGY,Egipto,0,0.488213674401152,EGY,Egipto
 2009,GBR,Reino Unido,0,0.78878694746337,GBR,Reino Unido
-2009,TZ1,Tanzania (continental),0,0.481861872508795,,
+2009,TZ1,Tanzania (continental),0,0.481861872508795,TAN,Tanganica (ex)
 2009,TZ2,Zanzibar,0,0.540488660361375,ZPM,Zanzibar
 2009,USA,Estados Unidos,0,0.79507670205346,USA,Estados Unidos
 2009,BFA,Burkina Faso,0,0.498527999025621,BFA,Burkina Faso
@@ -9007,7 +9007,7 @@ anio,iso3,iso3_desc_fundar,es_agregacion,particip_servicios_pib,geocodigoFundar,
 2010,SV1,Unión Soviética,0,,SVU,Unión Soviética
 2010,EGY,Egipto,0,0.484833167273544,EGY,Egipto
 2010,GBR,Reino Unido,0,0.787139157061787,GBR,Reino Unido
-2010,TZ1,Tanzania (continental),0,0.46797984459611,,
+2010,TZ1,Tanzania (continental),0,0.46797984459611,TAN,Tanganica (ex)
 2010,TZ2,Zanzibar,0,0.559862023541741,ZPM,Zanzibar
 2010,USA,Estados Unidos,0,0.793759012286599,USA,Estados Unidos
 2010,BFA,Burkina Faso,0,0.456248682584617,BFA,Burkina Faso
@@ -9227,7 +9227,7 @@ anio,iso3,iso3_desc_fundar,es_agregacion,particip_servicios_pib,geocodigoFundar,
 2011,SV1,Unión Soviética,0,,SVU,Unión Soviética
 2011,EGY,Egipto,0,0.478517194023967,EGY,Egipto
 2011,GBR,Reino Unido,0,0.787091488847104,GBR,Reino Unido
-2011,TZ1,Tanzania (continental),0,0.446256439221714,,
+2011,TZ1,Tanzania (continental),0,0.446256439221714,TAN,Tanganica (ex)
 2011,TZ2,Zanzibar,0,0.529091845112952,ZPM,Zanzibar
 2011,USA,Estados Unidos,0,0.790570210583659,USA,Estados Unidos
 2011,BFA,Burkina Faso,0,0.441000825480675,BFA,Burkina Faso
@@ -9447,7 +9447,7 @@ anio,iso3,iso3_desc_fundar,es_agregacion,particip_servicios_pib,geocodigoFundar,
 2012,SV1,Unión Soviética,0,,SVU,Unión Soviética
 2012,EGY,Egipto,0,0.506097700855216,EGY,Egipto
 2012,GBR,Reino Unido,0,0.78819216380149,GBR,Reino Unido
-2012,TZ1,Tanzania (continental),0,0.438749375487657,,
+2012,TZ1,Tanzania (continental),0,0.438749375487657,TAN,Tanganica (ex)
 2012,TZ2,Zanzibar,0,0.529383593720491,ZPM,Zanzibar
 2012,USA,Estados Unidos,0,0.793755383290267,USA,Estados Unidos
 2012,BFA,Burkina Faso,0,0.443344899924504,BFA,Burkina Faso
@@ -9667,7 +9667,7 @@ anio,iso3,iso3_desc_fundar,es_agregacion,particip_servicios_pib,geocodigoFundar,
 2013,SV1,Unión Soviética,0,,SVU,Unión Soviética
 2013,EGY,Egipto,0,0.505506523248033,EGY,Egipto
 2013,GBR,Reino Unido,0,0.784251282054508,GBR,Reino Unido
-2013,TZ1,Tanzania (continental),0,0.435288363478504,,
+2013,TZ1,Tanzania (continental),0,0.435288363478504,TAN,Tanganica (ex)
 2013,TZ2,Zanzibar,0,0.533006486792395,ZPM,Zanzibar
 2013,USA,Estados Unidos,0,0.791115755226123,USA,Estados Unidos
 2013,BFA,Burkina Faso,0,0.46540755940118,BFA,Burkina Faso
@@ -9887,7 +9887,7 @@ anio,iso3,iso3_desc_fundar,es_agregacion,particip_servicios_pib,geocodigoFundar,
 2014,SV1,Unión Soviética,0,,SVU,Unión Soviética
 2014,EGY,Egipto,0,0.505277460300613,EGY,Egipto
 2014,GBR,Reino Unido,0,0.787212186279356,GBR,Reino Unido
-2014,TZ1,Tanzania (continental),0,0.447699431807173,,
+2014,TZ1,Tanzania (continental),0,0.447699431807173,TAN,Tanganica (ex)
 2014,TZ2,Zanzibar,0,0.558602899260067,ZPM,Zanzibar
 2014,USA,Estados Unidos,0,0.791938737137164,USA,Estados Unidos
 2014,BFA,Burkina Faso,0,0.466377118519717,BFA,Burkina Faso
@@ -10107,7 +10107,7 @@ anio,iso3,iso3_desc_fundar,es_agregacion,particip_servicios_pib,geocodigoFundar,
 2015,SV1,Unión Soviética,0,,SVU,Unión Soviética
 2015,EGY,Egipto,0,0.525427598930282,EGY,Egipto
 2015,GBR,Reino Unido,0,0.790020069864192,GBR,Reino Unido
-2015,TZ1,Tanzania (continental),0,0.44107816591006,,
+2015,TZ1,Tanzania (continental),0,0.44107816591006,TAN,Tanganica (ex)
 2015,TZ2,Zanzibar,0,0.556402727040045,ZPM,Zanzibar
 2015,USA,Estados Unidos,0,0.801428100626163,USA,Estados Unidos
 2015,BFA,Burkina Faso,0,0.483152660796565,BFA,Burkina Faso
@@ -10327,7 +10327,7 @@ anio,iso3,iso3_desc_fundar,es_agregacion,particip_servicios_pib,geocodigoFundar,
 2016,SV1,Unión Soviética,0,,SVU,Unión Soviética
 2016,EGY,Egipto,0,0.551960890072784,EGY,Egipto
 2016,GBR,Reino Unido,0,0.796047626829255,GBR,Reino Unido
-2016,TZ1,Tanzania (continental),0,0.429952070597776,,
+2016,TZ1,Tanzania (continental),0,0.429952070597776,TAN,Tanganica (ex)
 2016,TZ2,Zanzibar,0,0.546905679311175,ZPM,Zanzibar
 2016,USA,Estados Unidos,0,0.808259918374262,USA,Estados Unidos
 2016,BFA,Burkina Faso,0,0.484566747057207,BFA,Burkina Faso
@@ -10547,7 +10547,7 @@ anio,iso3,iso3_desc_fundar,es_agregacion,particip_servicios_pib,geocodigoFundar,
 2017,SV1,Unión Soviética,0,,SVU,Unión Soviética
 2017,EGY,Egipto,0,0.540643147802853,EGY,Egipto
 2017,GBR,Reino Unido,0,0.793641518254339,GBR,Reino Unido
-2017,TZ1,Tanzania (continental),0,0.41337002448646,,
+2017,TZ1,Tanzania (continental),0,0.41337002448646,TAN,Tanganica (ex)
 2017,TZ2,Zanzibar,0,0.547838561987812,ZPM,Zanzibar
 2017,USA,Estados Unidos,0,0.808233221687994,USA,Estados Unidos
 2017,BFA,Burkina Faso,0,0.490200679425367,BFA,Burkina Faso
@@ -10767,7 +10767,7 @@ anio,iso3,iso3_desc_fundar,es_agregacion,particip_servicios_pib,geocodigoFundar,
 2018,SV1,Unión Soviética,0,,SVU,Unión Soviética
 2018,EGY,Egipto,0,0.527194732433787,EGY,Egipto
 2018,GBR,Reino Unido,0,0.792967100264596,GBR,Reino Unido
-2018,TZ1,Tanzania (continental),0,0.410316639387352,,
+2018,TZ1,Tanzania (continental),0,0.410316639387352,TAN,Tanganica (ex)
 2018,TZ2,Zanzibar,0,0.57762762638655,ZPM,Zanzibar
 2018,USA,Estados Unidos,0,0.805444944786919,USA,Estados Unidos
 2018,BFA,Burkina Faso,0,0.483158528382859,BFA,Burkina Faso
@@ -10987,7 +10987,7 @@ anio,iso3,iso3_desc_fundar,es_agregacion,particip_servicios_pib,geocodigoFundar,
 2019,SV1,Unión Soviética,0,,SVU,Unión Soviética
 2019,EGY,Egipto,0,0.519554824861207,EGY,Egipto
 2019,GBR,Reino Unido,0,0.794445379785019,GBR,Reino Unido
-2019,TZ1,Tanzania (continental),0,0.408507673803556,,
+2019,TZ1,Tanzania (continental),0,0.408507673803556,TAN,Tanganica (ex)
 2019,TZ2,Zanzibar,0,0.568830769418722,ZPM,Zanzibar
 2019,USA,Estados Unidos,0,0.811051644702941,USA,Estados Unidos
 2019,BFA,Burkina Faso,0,0.497303531154679,BFA,Burkina Faso
@@ -11207,7 +11207,7 @@ anio,iso3,iso3_desc_fundar,es_agregacion,particip_servicios_pib,geocodigoFundar,
 2020,SV1,Unión Soviética,0,,SVU,Unión Soviética
 2020,EGY,Egipto,0,0.542920043542124,EGY,Egipto
 2020,GBR,Reino Unido,0,0.799898522463891,GBR,Reino Unido
-2020,TZ1,Tanzania (continental),0,0.399059832717027,,
+2020,TZ1,Tanzania (continental),0,0.399059832717027,TAN,Tanganica (ex)
 2020,TZ2,Zanzibar,0,0.519548134257361,ZPM,Zanzibar
 2020,USA,Estados Unidos,0,0.818604171496166,USA,Estados Unidos
 2020,BFA,Burkina Faso,0,0.429696252269012,BFA,Burkina Faso
@@ -11427,7 +11427,7 @@ anio,iso3,iso3_desc_fundar,es_agregacion,particip_servicios_pib,geocodigoFundar,
 2021,SV1,Unión Soviética,0,,SVU,Unión Soviética
 2021,EGY,Egipto,0,0.551800957511726,EGY,Egipto
 2021,GBR,Reino Unido,0,0.806683748355839,GBR,Reino Unido
-2021,TZ1,Tanzania (continental),0,0.395765870706953,,
+2021,TZ1,Tanzania (continental),0,0.395765870706953,TAN,Tanganica (ex)
 2021,TZ2,Zanzibar,0,0.499248205347983,ZPM,Zanzibar
 2021,USA,Estados Unidos,0,0.813938703394939,USA,Estados Unidos
 2021,BFA,Burkina Faso,0,0.442461591677278,BFA,Burkina Faso
@@ -11647,7 +11647,7 @@ anio,iso3,iso3_desc_fundar,es_agregacion,particip_servicios_pib,geocodigoFundar,
 2022,SV1,Unión Soviética,0,,SVU,Unión Soviética
 2022,EGY,Egipto,0,0.54086648826675,EGY,Egipto
 2022,GBR,Reino Unido,0,0.807755513975201,GBR,Reino Unido
-2022,TZ1,Tanzania (continental),0,0.381840321536485,,
+2022,TZ1,Tanzania (continental),0,0.381840321536485,TAN,Tanganica (ex)
 2022,TZ2,Zanzibar,0,0.499152247207897,ZPM,Zanzibar
 2022,USA,Estados Unidos,0,0.806655145843268,USA,Estados Unidos
 2022,BFA,Burkina Faso,0,0.43396747843992,BFA,Burkina Faso
