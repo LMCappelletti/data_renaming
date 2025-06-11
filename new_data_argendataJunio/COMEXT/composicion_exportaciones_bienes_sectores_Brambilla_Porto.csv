@@ -130,7 +130,7 @@ anio,iso3,country_name_abbreviation,sector_bp,sector_bp_name,export_value_pc,geo
 2020,LTU,Lithuania,8,"Textiles, indumentaria y calzado",4.26060365914889,LTU,Lituania
 2020,MAC,"China, Macao SAR",10,Metales,5.03947878032103,MAC,Macao
 2020,MYS,Malaysia,12,Transporte,1.71971757859211,MYS,Malasia
-2020,S19,"Other Asia, nes",7,Madera,0.597567374938755,,
+2020,S19,"Other Asia, nes",7,Madera,0.597567374938755,TWN,Taiwán
 2020,MNE,Montenegro,9,Piedra y vidrio,2.376338471568,MNE,Montenegro
 2020,MOZ,Mozambique,9,Piedra y vidrio,5.47164472582906,MOZ,Mozambique
 2020,VUT,Vanuatu,11,Maquinaria,0.582615965236705,VUT,Vanuatu
@@ -310,7 +310,7 @@ anio,iso3,country_name_abbreviation,sector_bp,sector_bp_name,export_value_pc,geo
 2020,PRK,Dem. People's Rep. of Korea,4,Químicos,12.5723298679358,PRK,Corea del Norte
 2020,KGZ,Kyrgyzstan,10,Metales,3.00080367284828,KGZ,Kirguistán
 2020,LBY,Libya,5,Plásticos y gomas,0.0086767959679466,LBY,Libia
-2020,S19,"Other Asia, nes",11,Maquinaria,64.681909018377,,
+2020,S19,"Other Asia, nes",11,Maquinaria,64.681909018377,TWN,Taiwán
 2020,NAM,Namibia,10,Metales,12.5687779784841,NAM,Namibia
 2020,SXM,Saint Maarten,5,Plásticos y gomas,4.04978610865864,SXM,San Martín (parte holandesa)
 2020,NER,Niger,12,Transporte,1.08406891979828,NER,Níger
@@ -584,7 +584,7 @@ anio,iso3,country_name_abbreviation,sector_bp,sector_bp_name,export_value_pc,geo
 2020,SHN,Saint Helena,12,Transporte,3.55118502823425,SHN,Santa Elena
 2020,BIH,Bosnia Herzegovina,13,Otros productos industriales,11.7302467151343,BIH,Bosnia y Herzegovina
 2020,FIN,Finland,2,Alimentos procesados,0.865212419275592,FIN,Finlandia
-2020,S19,"Other Asia, nes",10,Metales,7.09769805262689,,
+2020,S19,"Other Asia, nes",10,Metales,7.09769805262689,TWN,Taiwán
 2020,FSM,FS Micronesia,2,Alimentos procesados,0.125574674253189,FSM,Micronesia
 2020,MLT,Malta,13,Otros productos industriales,9.10993403971579,MLT,Malta
 2020,ISL,Iceland,13,Otros productos industriales,3.01254909493333,ISL,Islandia
@@ -751,7 +751,7 @@ anio,iso3,country_name_abbreviation,sector_bp,sector_bp_name,export_value_pc,geo
 2020,MDV,Maldives,1,Productos agropecuarios,70.5765550808144,MDV,Maldivas
 2020,MLT,Malta,10,Metales,1.24104264480042,MLT,Malta
 2020,MEX,Mexico,3,Minerales,6.54162277416422,MEX,México
-2020,S19,"Other Asia, nes",6,Cueros y pieles,0.120971333544461,,
+2020,S19,"Other Asia, nes",6,Cueros y pieles,0.120971333544461,TWN,Taiwán
 2020,MNE,Montenegro,3,Minerales,21.6970268970383,MNE,Montenegro
 2020,MSR,Montserrat,3,Minerales,45.4260015652682,MSR,Montserrat
 2020,NAM,Namibia,4,Químicos,14.2673755074583,NAM,Namibia
@@ -1001,7 +1001,7 @@ anio,iso3,country_name_abbreviation,sector_bp,sector_bp_name,export_value_pc,geo
 2020,KWT,Kuwait,1,Productos agropecuarios,0.556612214313715,KWT,Kuwait
 2020,MLI,Mali,9,Piedra y vidrio,93.558025411487,MLI,Malí
 2020,MLT,Malta,11,Maquinaria,28.7975338877979,MLT,Malta
-2020,S19,"Other Asia, nes",4,Químicos,4.67477180452422,,
+2020,S19,"Other Asia, nes",4,Químicos,4.67477180452422,TWN,Taiwán
 2020,MNE,Montenegro,2,Alimentos procesados,6.0875690226748,MNE,Montenegro
 2020,NCL,New Caledonia,3,Minerales,30.2041832419885,NCL,Nueva Caledonia
 2020,VUT,Vanuatu,1,Productos agropecuarios,75.6217088834716,VUT,Vanuatu
@@ -1432,7 +1432,7 @@ anio,iso3,country_name_abbreviation,sector_bp,sector_bp_name,export_value_pc,geo
 2020,JOR,Jordan,5,Plásticos y gomas,1.87137545684505,JOR,Jordania
 2020,CIV,Côte d'Ivoire,12,Transporte,0.851203629642573,CIV,Costa de Marfil
 2020,MDV,Maldives,6,Cueros y pieles,0.0116356796793806,MDV,Maldivas
-2020,S19,"Other Asia, nes",5,Plásticos y gomas,5.87161699378038,,
+2020,S19,"Other Asia, nes",5,Plásticos y gomas,5.87161699378038,TWN,Taiwán
 2020,COM,Comoros,5,Plásticos y gomas,0.0442203052758303,COM,Comoras
 2020,GEO,Georgia,2,Alimentos procesados,14.8271540998087,GEO,Georgia
 2020,UKR,Ukraine,6,Cueros y pieles,0.260077990431533,UKR,Ucrania
@@ -1546,7 +1546,7 @@ anio,iso3,country_name_abbreviation,sector_bp,sector_bp_name,export_value_pc,geo
 2020,LVA,Latvia,7,Madera,17.7465054592579,LVA,Letonia
 2020,LBY,Libya,3,Minerales,75.1869141494047,LBY,Libia
 2020,MDG,Madagascar,4,Químicos,4.2716119350714,MDG,Madagascar
-2020,S19,"Other Asia, nes",8,"Textiles, indumentaria y calzado",2.27871620600805,,
+2020,S19,"Other Asia, nes",8,"Textiles, indumentaria y calzado",2.27871620600805,TWN,Taiwán
 2020,MOZ,Mozambique,1,Productos agropecuarios,10.3070763827549,MOZ,Mozambique
 2020,NPL,Nepal,4,Químicos,4.05888396665908,NPL,Nepal
 2020,ABW,Aruba,3,Minerales,51.199266224453,ABW,Aruba
@@ -1767,7 +1767,7 @@ anio,iso3,country_name_abbreviation,sector_bp,sector_bp_name,export_value_pc,geo
 2020,GRC,Greece,3,Minerales,24.5572992673343,GRC,Grecia
 2020,JOR,Jordan,6,Cueros y pieles,0.117541370375005,JOR,Jordania
 2020,MLI,Mali,2,Alimentos procesados,0.182328202133062,MLI,Malí
-2020,S19,"Other Asia, nes",3,Minerales,1.62477000824948,,
+2020,S19,"Other Asia, nes",3,Minerales,1.62477000824948,TWN,Taiwán
 2020,OMN,Oman,10,Metales,10.8784581697357,OMN,Omán
 2020,CUW,Curaçao,5,Plásticos y gomas,2.01808138545757,CUW,Curazao
 2020,NOR,Norway,10,Metales,9.55368983547747,NOR,Noruega
@@ -2007,7 +2007,7 @@ anio,iso3,country_name_abbreviation,sector_bp,sector_bp_name,export_value_pc,geo
 2020,ESP,Spain,12,Transporte,19.0877194617289,ESP,España
 2020,DNK,Denmark,9,Piedra y vidrio,1.08522778197374,DNK,Dinamarca
 2020,DEU,Germany,8,"Textiles, indumentaria y calzado",3.35204647548308,DEU,Alemania
-2020,S19,"Other Asia, nes",13,Otros productos industriales,6.93778715485633,,
+2020,S19,"Other Asia, nes",13,Otros productos industriales,6.93778715485633,TWN,Taiwán
 2020,PCN,Pitcairn,5,Plásticos y gomas,3.37730726316923,PCN,Pitcairn
 2020,AZE,Azerbaijan,4,Químicos,0.73998746681323,AZE,Azerbaiyán
 2020,MUS,Mauritius,12,Transporte,1.77945197912986,MUS,Mauricio
@@ -2088,7 +2088,7 @@ anio,iso3,country_name_abbreviation,sector_bp,sector_bp_name,export_value_pc,geo
 2020,BRN,Brunei Darussalam,2,Alimentos procesados,0.0932485253312928,BRN,Brunei
 2020,EGY,Egypt,11,Maquinaria,7.17400919091568,EGY,Egipto
 2020,GIB,Gibraltar,1,Productos agropecuarios,10.6496270886759,GIB,Gibraltar
-2020,S19,"Other Asia, nes",9,Piedra y vidrio,1.61721714210989,,
+2020,S19,"Other Asia, nes",9,Piedra y vidrio,1.61721714210989,TWN,Taiwán
 2020,LCA,Saint Lucia,5,Plásticos y gomas,1.19587687541588,LCA,Santa Lucía
 2020,UZB,Uzbekistan,7,Madera,0.342157983213547,UZB,Uzbekistán
 2020,ZAF,South Africa,13,Otros productos industriales,1.04914131625151,ZAF,Sudáfrica
@@ -2415,7 +2415,7 @@ anio,iso3,country_name_abbreviation,sector_bp,sector_bp_name,export_value_pc,geo
 2020,IRN,Iran,10,Metales,18.4118950422229,IRN,Irán
 2020,JPN,Japan,1,Productos agropecuarios,0.527553334248732,JPN,Japón
 2020,MUS,Mauritius,4,Químicos,9.75925437833752,MUS,Mauricio
-2020,S19,"Other Asia, nes",1,Productos agropecuarios,0.756429867234045,,
+2020,S19,"Other Asia, nes",1,Productos agropecuarios,0.756429867234045,TWN,Taiwán
 2020,MDA,Rep. of Moldova,8,"Textiles, indumentaria y calzado",16.85170215709,MDA,Moldavia
 2020,OMN,Oman,7,Madera,0.981683718340988,OMN,Omán
 2020,NLD,Netherlands,1,Productos agropecuarios,13.0253800285435,NLD,Países Bajos
@@ -2447,7 +2447,7 @@ anio,iso3,country_name_abbreviation,sector_bp,sector_bp_name,export_value_pc,geo
 2020,KOR,Rep. of Korea,7,Madera,0.590223660317775,KOR,Corea del Sur
 2020,KGZ,Kyrgyzstan,1,Productos agropecuarios,7.49507304696557,KGZ,Kirguistán
 2020,MAC,"China, Macao SAR",7,Madera,0.515079664698985,MAC,Macao
-2020,S19,"Other Asia, nes",12,Transporte,3.11215522986082,,
+2020,S19,"Other Asia, nes",12,Transporte,3.11215522986082,TWN,Taiwán
 2020,NLD,Netherlands,11,Maquinaria,23.9161529242791,NLD,Países Bajos
 2020,BES,Bonaire,11,Maquinaria,4.48807575039194,BES,Bonaire
 2020,GNB,Guinea-Bissau,8,"Textiles, indumentaria y calzado",0.0023809170869762,GNB,Guinea-Bissau
@@ -2863,7 +2863,7 @@ anio,iso3,country_name_abbreviation,sector_bp,sector_bp_name,export_value_pc,geo
 2020,HTI,Haiti,6,Cueros y pieles,0.219989624154479,HTI,Haití
 2020,IND,India,2,Alimentos procesados,2.5622565087844,IND,India
 2020,ZMB,Zambia,2,Alimentos procesados,4.46663960554402,ZMB,Zambia
-2020,S19,"Other Asia, nes",2,Alimentos procesados,0.628389813889701,,
+2020,S19,"Other Asia, nes",2,Alimentos procesados,0.628389813889701,TWN,Taiwán
 2020,DNK,Denmark,2,Alimentos procesados,5.50341348339195,DNK,Dinamarca
 2020,TUV,Tuvalu,3,Minerales,0.0156372109020748,TUV,Tuvalu
 2020,MAC,"China, Macao SAR",3,Minerales,0.652825938543999,MAC,Macao

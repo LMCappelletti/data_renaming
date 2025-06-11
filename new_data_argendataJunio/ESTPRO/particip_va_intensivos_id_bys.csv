@@ -1975,32 +1975,32 @@ anio,iso3,iso3_desc_fundar,es_agregacion,particip_bys_alta_intensidad,geocodigoF
 2018,S2,Asia del Este,1,0.232747982821532,EASIA,Asia del Este
 2019,S2,Asia del Este,1,0.229015590619581,EASIA,Asia del Este
 2020,S2,Asia del Este,1,0.22864036932384,EASIA,Asia del Este
-1995,S2_S8,Asia del Este y Sudeste,1,0.206251226289485,,
-1996,S2_S8,Asia del Este y Sudeste,1,0.207100239243163,,
-1997,S2_S8,Asia del Este y Sudeste,1,0.208831215311914,,
-1998,S2_S8,Asia del Este y Sudeste,1,0.210106954059574,,
-1999,S2_S8,Asia del Este y Sudeste,1,0.209672182180312,,
-2000,S2_S8,Asia del Este y Sudeste,1,0.216499676053083,,
-2001,S2_S8,Asia del Este y Sudeste,1,0.211872030522914,,
-2002,S2_S8,Asia del Este y Sudeste,1,0.211042306220379,,
-2003,S2_S8,Asia del Este y Sudeste,1,0.214617860987559,,
-2004,S2_S8,Asia del Este y Sudeste,1,0.218040066221257,,
-2005,S2_S8,Asia del Este y Sudeste,1,0.221233606265777,,
-2006,S2_S8,Asia del Este y Sudeste,1,0.225550946259723,,
-2007,S2_S8,Asia del Este y Sudeste,1,0.23083157859854,,
-2008,S2_S8,Asia del Este y Sudeste,1,0.231003916630218,,
-2009,S2_S8,Asia del Este y Sudeste,1,0.221817832163375,,
-2010,S2_S8,Asia del Este y Sudeste,1,0.229432275416128,,
-2011,S2_S8,Asia del Este y Sudeste,1,0.225353064794009,,
-2012,S2_S8,Asia del Este y Sudeste,1,0.225307426746948,,
-2013,S2_S8,Asia del Este y Sudeste,1,0.223487958622506,,
-2014,S2_S8,Asia del Este y Sudeste,1,0.224875396389931,,
-2015,S2_S8,Asia del Este y Sudeste,1,0.222981887895249,,
-2016,S2_S8,Asia del Este y Sudeste,1,0.219017768553135,,
-2017,S2_S8,Asia del Este y Sudeste,1,0.220891086652263,,
-2018,S2_S8,Asia del Este y Sudeste,1,0.222676915411578,,
-2019,S2_S8,Asia del Este y Sudeste,1,0.218868895444177,,
-2020,S2_S8,Asia del Este y Sudeste,1,0.219137399126975,,
+1995,S2_S8,Asia del Este y Sudeste,1,0.206251226289485,ZASI,Este y Sudeste Asiático
+1996,S2_S8,Asia del Este y Sudeste,1,0.207100239243163,ZASI,Este y Sudeste Asiático
+1997,S2_S8,Asia del Este y Sudeste,1,0.208831215311914,ZASI,Este y Sudeste Asiático
+1998,S2_S8,Asia del Este y Sudeste,1,0.210106954059574,ZASI,Este y Sudeste Asiático
+1999,S2_S8,Asia del Este y Sudeste,1,0.209672182180312,ZASI,Este y Sudeste Asiático
+2000,S2_S8,Asia del Este y Sudeste,1,0.216499676053083,ZASI,Este y Sudeste Asiático
+2001,S2_S8,Asia del Este y Sudeste,1,0.211872030522914,ZASI,Este y Sudeste Asiático
+2002,S2_S8,Asia del Este y Sudeste,1,0.211042306220379,ZASI,Este y Sudeste Asiático
+2003,S2_S8,Asia del Este y Sudeste,1,0.214617860987559,ZASI,Este y Sudeste Asiático
+2004,S2_S8,Asia del Este y Sudeste,1,0.218040066221257,ZASI,Este y Sudeste Asiático
+2005,S2_S8,Asia del Este y Sudeste,1,0.221233606265777,ZASI,Este y Sudeste Asiático
+2006,S2_S8,Asia del Este y Sudeste,1,0.225550946259723,ZASI,Este y Sudeste Asiático
+2007,S2_S8,Asia del Este y Sudeste,1,0.23083157859854,ZASI,Este y Sudeste Asiático
+2008,S2_S8,Asia del Este y Sudeste,1,0.231003916630218,ZASI,Este y Sudeste Asiático
+2009,S2_S8,Asia del Este y Sudeste,1,0.221817832163375,ZASI,Este y Sudeste Asiático
+2010,S2_S8,Asia del Este y Sudeste,1,0.229432275416128,ZASI,Este y Sudeste Asiático
+2011,S2_S8,Asia del Este y Sudeste,1,0.225353064794009,ZASI,Este y Sudeste Asiático
+2012,S2_S8,Asia del Este y Sudeste,1,0.225307426746948,ZASI,Este y Sudeste Asiático
+2013,S2_S8,Asia del Este y Sudeste,1,0.223487958622506,ZASI,Este y Sudeste Asiático
+2014,S2_S8,Asia del Este y Sudeste,1,0.224875396389931,ZASI,Este y Sudeste Asiático
+2015,S2_S8,Asia del Este y Sudeste,1,0.222981887895249,ZASI,Este y Sudeste Asiático
+2016,S2_S8,Asia del Este y Sudeste,1,0.219017768553135,ZASI,Este y Sudeste Asiático
+2017,S2_S8,Asia del Este y Sudeste,1,0.220891086652263,ZASI,Este y Sudeste Asiático
+2018,S2_S8,Asia del Este y Sudeste,1,0.222676915411578,ZASI,Este y Sudeste Asiático
+2019,S2_S8,Asia del Este y Sudeste,1,0.218868895444177,ZASI,Este y Sudeste Asiático
+2020,S2_S8,Asia del Este y Sudeste,1,0.219137399126975,ZASI,Este y Sudeste Asiático
 1995,SAU,Arabia Saudita,0,0.0694863046323968,SAU,Arabia Saudita
 1996,SAU,Arabia Saudita,0,0.0695126712617162,SAU,Arabia Saudita
 1997,SAU,Arabia Saudita,0,0.0694510426926138,SAU,Arabia Saudita
