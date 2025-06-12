@@ -3,10 +3,10 @@ anio,prov_desc,apertura_edad,tasa_empleo,geocodigoFundar,geonombreFundar
 2016,Buenos Aires,"Edad, mayor a 65",0.128950238695527,AR-B,Buenos Aires
 2016,Buenos Aires,"Edad, menor de 18",0.013355758030508,AR-B,Buenos Aires
 2016,Buenos Aires,"Edad, total",0.406335490515795,AR-B,Buenos Aires
-2016,CABA,"Edad, entre 18 y 65",0.755645390552976,,
-2016,CABA,"Edad, mayor a 65",0.179505776003621,,
-2016,CABA,"Edad, menor de 18",0.0087161893125773,,
-2016,CABA,"Edad, total",0.513004338146002,,
+2016,CABA,"Edad, entre 18 y 65",0.755645390552976,AR-C,CABA
+2016,CABA,"Edad, mayor a 65",0.179505776003621,AR-C,CABA
+2016,CABA,"Edad, menor de 18",0.0087161893125773,AR-C,CABA
+2016,CABA,"Edad, total",0.513004338146002,AR-C,CABA
 2016,Catamarca,"Edad, entre 18 y 65",0.650908270929037,AR-K,Catamarca
 2016,Catamarca,"Edad, mayor a 65",0.0995670995670996,AR-K,Catamarca
 2016,Catamarca,"Edad, menor de 18",0.0114723357633475,AR-K,Catamarca
@@ -103,10 +103,10 @@ anio,prov_desc,apertura_edad,tasa_empleo,geocodigoFundar,geonombreFundar
 2017,Buenos Aires,"Edad, mayor a 65",0.129930173577028,AR-B,Buenos Aires
 2017,Buenos Aires,"Edad, menor de 18",0.0102248985140014,AR-B,Buenos Aires
 2017,Buenos Aires,"Edad, total",0.413326776762686,AR-B,Buenos Aires
-2017,CABA,"Edad, entre 18 y 65",0.771677992768684,,
-2017,CABA,"Edad, mayor a 65",0.149479775779328,,
-2017,CABA,"Edad, menor de 18",0.0016160839733613,,
-2017,CABA,"Edad, total",0.49975704923768,,
+2017,CABA,"Edad, entre 18 y 65",0.771677992768684,AR-C,CABA
+2017,CABA,"Edad, mayor a 65",0.149479775779328,AR-C,CABA
+2017,CABA,"Edad, menor de 18",0.0016160839733613,AR-C,CABA
+2017,CABA,"Edad, total",0.49975704923768,AR-C,CABA
 2017,Catamarca,"Edad, entre 18 y 65",0.652842750127629,AR-K,Catamarca
 2017,Catamarca,"Edad, mayor a 65",0.0896243551551261,AR-K,Catamarca
 2017,Catamarca,"Edad, menor de 18",0.0069479011116641,AR-K,Catamarca
@@ -203,10 +203,10 @@ anio,prov_desc,apertura_edad,tasa_empleo,geocodigoFundar,geonombreFundar
 2018,Buenos Aires,"Edad, mayor a 65",0.136069079935576,AR-B,Buenos Aires
 2018,Buenos Aires,"Edad, menor de 18",0.0074965943056923,AR-B,Buenos Aires
 2018,Buenos Aires,"Edad, total",0.410119219591475,AR-B,Buenos Aires
-2018,CABA,"Edad, entre 18 y 65",0.754071699506562,,
-2018,CABA,"Edad, mayor a 65",0.177121105163925,,
-2018,CABA,"Edad, menor de 18",0.0037261801383053,,
-2018,CABA,"Edad, total",0.49214515135441,,
+2018,CABA,"Edad, entre 18 y 65",0.754071699506562,AR-C,CABA
+2018,CABA,"Edad, mayor a 65",0.177121105163925,AR-C,CABA
+2018,CABA,"Edad, menor de 18",0.0037261801383053,AR-C,CABA
+2018,CABA,"Edad, total",0.49214515135441,AR-C,CABA
 2018,Catamarca,"Edad, entre 18 y 65",0.65285502216275,AR-K,Catamarca
 2018,Catamarca,"Edad, mayor a 65",0.139557037389855,AR-K,Catamarca
 2018,Catamarca,"Edad, menor de 18",0.0049923195084485,AR-K,Catamarca
@@ -303,10 +303,10 @@ anio,prov_desc,apertura_edad,tasa_empleo,geocodigoFundar,geonombreFundar
 2019,Buenos Aires,"Edad, mayor a 65",0.133652441646647,AR-B,Buenos Aires
 2019,Buenos Aires,"Edad, menor de 18",0.009556907990515,AR-B,Buenos Aires
 2019,Buenos Aires,"Edad, total",0.406736837017766,AR-B,Buenos Aires
-2019,CABA,"Edad, entre 18 y 65",0.78160249206228,,
-2019,CABA,"Edad, mayor a 65",0.235238439044275,,
-2019,CABA,"Edad, menor de 18",0.0044537156689194,,
-2019,CABA,"Edad, total",0.524219955060018,,
+2019,CABA,"Edad, entre 18 y 65",0.78160249206228,AR-C,CABA
+2019,CABA,"Edad, mayor a 65",0.235238439044275,AR-C,CABA
+2019,CABA,"Edad, menor de 18",0.0044537156689194,AR-C,CABA
+2019,CABA,"Edad, total",0.524219955060018,AR-C,CABA
 2019,Catamarca,"Edad, entre 18 y 65",0.642114222840416,AR-K,Catamarca
 2019,Catamarca,"Edad, mayor a 65",0.112099921935988,AR-K,Catamarca
 2019,Catamarca,"Edad, menor de 18",0.0027585231291554,AR-K,Catamarca
@@ -399,10 +399,10 @@ anio,prov_desc,apertura_edad,tasa_empleo,geocodigoFundar,geonombreFundar
 2020,Buenos Aires,"Edad, mayor a 65",0.0986580200959805,AR-B,Buenos Aires
 2020,Buenos Aires,"Edad, menor de 18",0.0115107919392238,AR-B,Buenos Aires
 2020,Buenos Aires,"Edad, total",0.349928136145333,AR-B,Buenos Aires
-2020,CABA,"Edad, entre 18 y 65",0.66376632339563,,
-2020,CABA,"Edad, mayor a 65",0.185317261044905,,
-2020,CABA,"Edad, menor de 18",0.0,,
-2020,CABA,"Edad, total",0.428938579884812,,
+2020,CABA,"Edad, entre 18 y 65",0.66376632339563,AR-C,CABA
+2020,CABA,"Edad, mayor a 65",0.185317261044905,AR-C,CABA
+2020,CABA,"Edad, menor de 18",0.0,AR-C,CABA
+2020,CABA,"Edad, total",0.428938579884812,AR-C,CABA
 2020,Catamarca,"Edad, entre 18 y 65",0.583968492760432,AR-K,Catamarca
 2020,Catamarca,"Edad, mayor a 65",0.070823223265464,AR-K,Catamarca
 2020,Catamarca,"Edad, menor de 18",0.0058975266804916,AR-K,Catamarca
@@ -491,10 +491,10 @@ anio,prov_desc,apertura_edad,tasa_empleo,geocodigoFundar,geonombreFundar
 2021,Buenos Aires,"Edad, mayor a 65",0.127552852598058,AR-B,Buenos Aires
 2021,Buenos Aires,"Edad, menor de 18",0.0036296885346968,AR-B,Buenos Aires
 2021,Buenos Aires,"Edad, total",0.417284832744725,AR-B,Buenos Aires
-2021,CABA,"Edad, entre 18 y 65",0.768846431878338,,
-2021,CABA,"Edad, mayor a 65",0.21682447603984,,
-2021,CABA,"Edad, menor de 18",0.0072767997303479,,
-2021,CABA,"Edad, total",0.496888414590278,,
+2021,CABA,"Edad, entre 18 y 65",0.768846431878338,AR-C,CABA
+2021,CABA,"Edad, mayor a 65",0.21682447603984,AR-C,CABA
+2021,CABA,"Edad, menor de 18",0.0072767997303479,AR-C,CABA
+2021,CABA,"Edad, total",0.496888414590278,AR-C,CABA
 2021,Catamarca,"Edad, entre 18 y 65",0.62447840806204,AR-K,Catamarca
 2021,Catamarca,"Edad, mayor a 65",0.0652925622076073,AR-K,Catamarca
 2021,Catamarca,"Edad, menor de 18",0.0077737582310381,AR-K,Catamarca
@@ -591,10 +591,10 @@ anio,prov_desc,apertura_edad,tasa_empleo,geocodigoFundar,geonombreFundar
 2022,Buenos Aires,"Edad, mayor a 65",0.11649971272264,AR-B,Buenos Aires
 2022,Buenos Aires,"Edad, menor de 18",0.0141984582867994,AR-B,Buenos Aires
 2022,Buenos Aires,"Edad, total",0.428131998796611,AR-B,Buenos Aires
-2022,CABA,"Edad, entre 18 y 65",0.789681802023918,,
-2022,CABA,"Edad, mayor a 65",0.166604358491834,,
-2022,CABA,"Edad, menor de 18",0.0,,
-2022,CABA,"Edad, total",0.510064093409328,,
+2022,CABA,"Edad, entre 18 y 65",0.789681802023918,AR-C,CABA
+2022,CABA,"Edad, mayor a 65",0.166604358491834,AR-C,CABA
+2022,CABA,"Edad, menor de 18",0.0,AR-C,CABA
+2022,CABA,"Edad, total",0.510064093409328,AR-C,CABA
 2022,Catamarca,"Edad, entre 18 y 65",0.655688938282013,AR-K,Catamarca
 2022,Catamarca,"Edad, mayor a 65",0.0805554652183811,AR-K,Catamarca
 2022,Catamarca,"Edad, menor de 18",0.0081336897843746,AR-K,Catamarca
@@ -691,10 +691,10 @@ anio,prov_desc,apertura_edad,tasa_empleo,geocodigoFundar,geonombreFundar
 2023,Buenos Aires,"Edad, mayor a 65",0.14286180563317,AR-B,Buenos Aires
 2023,Buenos Aires,"Edad, menor de 18",0.0115829488661721,AR-B,Buenos Aires
 2023,Buenos Aires,"Edad, total",0.450224663485831,AR-B,Buenos Aires
-2023,CABA,"Edad, entre 18 y 65",0.799108104872501,,
-2023,CABA,"Edad, mayor a 65",0.235179540523795,,
-2023,CABA,"Edad, menor de 18",0.0080803094847616,,
-2023,CABA,"Edad, total",0.528291476483892,,
+2023,CABA,"Edad, entre 18 y 65",0.799108104872501,AR-C,CABA
+2023,CABA,"Edad, mayor a 65",0.235179540523795,AR-C,CABA
+2023,CABA,"Edad, menor de 18",0.0080803094847616,AR-C,CABA
+2023,CABA,"Edad, total",0.528291476483892,AR-C,CABA
 2023,Catamarca,"Edad, entre 18 y 65",0.689755967513116,AR-K,Catamarca
 2023,Catamarca,"Edad, mayor a 65",0.0601468373493976,AR-K,Catamarca
 2023,Catamarca,"Edad, menor de 18",0.0092310551694941,AR-K,Catamarca

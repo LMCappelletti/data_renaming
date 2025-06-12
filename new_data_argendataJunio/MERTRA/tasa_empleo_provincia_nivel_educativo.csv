@@ -2,9 +2,9 @@ anio,provincia,nivel_ed_fundar,ocupado,geocodigoFundar,geonombreFundar
 2016,Buenos Aires,Hasta secundario incompleto,0.647369346312506,AR-B,Buenos Aires
 2016,Buenos Aires,Secundario completo,0.732080369939695,AR-B,Buenos Aires
 2016,Buenos Aires,Superior incompleto o completo,0.792269581817955,AR-B,Buenos Aires
-2016,Ciudad de Buenos Aires,Hasta secundario incompleto,0.702942088673788,,
-2016,Ciudad de Buenos Aires,Secundario completo,0.79641574066338,,
-2016,Ciudad de Buenos Aires,Superior incompleto o completo,0.858126306263601,,
+2016,Ciudad de Buenos Aires,Hasta secundario incompleto,0.702942088673788,AR-C,CABA
+2016,Ciudad de Buenos Aires,Secundario completo,0.79641574066338,AR-C,CABA
+2016,Ciudad de Buenos Aires,Superior incompleto o completo,0.858126306263601,AR-C,CABA
 2016,Catamarca,Hasta secundario incompleto,0.6613294160852,AR-K,Catamarca
 2016,Catamarca,Secundario completo,0.780971780376719,AR-K,Catamarca
 2016,Catamarca,Superior incompleto o completo,0.792486548053886,AR-K,Catamarca
@@ -74,9 +74,9 @@ anio,provincia,nivel_ed_fundar,ocupado,geocodigoFundar,geonombreFundar
 2017,Buenos Aires,Hasta secundario incompleto,0.649720225116636,AR-B,Buenos Aires
 2017,Buenos Aires,Secundario completo,0.742023631656753,AR-B,Buenos Aires
 2017,Buenos Aires,Superior incompleto o completo,0.803687793727001,AR-B,Buenos Aires
-2017,Ciudad de Buenos Aires,Hasta secundario incompleto,0.730415540892655,,
-2017,Ciudad de Buenos Aires,Secundario completo,0.785498046599731,,
-2017,Ciudad de Buenos Aires,Superior incompleto o completo,0.858488422259034,,
+2017,Ciudad de Buenos Aires,Hasta secundario incompleto,0.730415540892655,AR-C,CABA
+2017,Ciudad de Buenos Aires,Secundario completo,0.785498046599731,AR-C,CABA
+2017,Ciudad de Buenos Aires,Superior incompleto o completo,0.858488422259034,AR-C,CABA
 2017,Catamarca,Hasta secundario incompleto,0.658865014628098,AR-K,Catamarca
 2017,Catamarca,Secundario completo,0.742720611659764,AR-K,Catamarca
 2017,Catamarca,Superior incompleto o completo,0.815516223064759,AR-K,Catamarca
@@ -146,9 +146,9 @@ anio,provincia,nivel_ed_fundar,ocupado,geocodigoFundar,geonombreFundar
 2018,Buenos Aires,Hasta secundario incompleto,0.649707545244454,AR-B,Buenos Aires
 2018,Buenos Aires,Secundario completo,0.69291493971985,AR-B,Buenos Aires
 2018,Buenos Aires,Superior incompleto o completo,0.80821330891245,AR-B,Buenos Aires
-2018,Ciudad de Buenos Aires,Hasta secundario incompleto,0.727968745468632,,
-2018,Ciudad de Buenos Aires,Secundario completo,0.818543899422918,,
-2018,Ciudad de Buenos Aires,Superior incompleto o completo,0.857915422723875,,
+2018,Ciudad de Buenos Aires,Hasta secundario incompleto,0.727968745468632,AR-C,CABA
+2018,Ciudad de Buenos Aires,Secundario completo,0.818543899422918,AR-C,CABA
+2018,Ciudad de Buenos Aires,Superior incompleto o completo,0.857915422723875,AR-C,CABA
 2018,Catamarca,Hasta secundario incompleto,0.622934373166253,AR-K,Catamarca
 2018,Catamarca,Secundario completo,0.767552872677455,AR-K,Catamarca
 2018,Catamarca,Superior incompleto o completo,0.790322274341493,AR-K,Catamarca
@@ -218,9 +218,9 @@ anio,provincia,nivel_ed_fundar,ocupado,geocodigoFundar,geonombreFundar
 2019,Buenos Aires,Hasta secundario incompleto,0.619316784237673,AR-B,Buenos Aires
 2019,Buenos Aires,Secundario completo,0.695587964907487,AR-B,Buenos Aires
 2019,Buenos Aires,Superior incompleto o completo,0.814441667970084,AR-B,Buenos Aires
-2019,Ciudad de Buenos Aires,Hasta secundario incompleto,0.71604033769132,,
-2019,Ciudad de Buenos Aires,Secundario completo,0.826181662397688,,
-2019,Ciudad de Buenos Aires,Superior incompleto o completo,0.888758756124226,,
+2019,Ciudad de Buenos Aires,Hasta secundario incompleto,0.71604033769132,AR-C,CABA
+2019,Ciudad de Buenos Aires,Secundario completo,0.826181662397688,AR-C,CABA
+2019,Ciudad de Buenos Aires,Superior incompleto o completo,0.888758756124226,AR-C,CABA
 2019,Catamarca,Hasta secundario incompleto,0.64119443377768,AR-K,Catamarca
 2019,Catamarca,Secundario completo,0.724969000112727,AR-K,Catamarca
 2019,Catamarca,Superior incompleto o completo,0.823871015622101,AR-K,Catamarca
@@ -287,9 +287,9 @@ anio,provincia,nivel_ed_fundar,ocupado,geocodigoFundar,geonombreFundar
 2020,Buenos Aires,Hasta secundario incompleto,0.510687544376481,AR-B,Buenos Aires
 2020,Buenos Aires,Secundario completo,0.606190476608421,AR-B,Buenos Aires
 2020,Buenos Aires,Superior incompleto o completo,0.763717987078389,AR-B,Buenos Aires
-2020,Ciudad de Buenos Aires,Hasta secundario incompleto,0.585463961337379,,
-2020,Ciudad de Buenos Aires,Secundario completo,0.662198479197418,,
-2020,Ciudad de Buenos Aires,Superior incompleto o completo,0.785848736120399,,
+2020,Ciudad de Buenos Aires,Hasta secundario incompleto,0.585463961337379,AR-C,CABA
+2020,Ciudad de Buenos Aires,Secundario completo,0.662198479197418,AR-C,CABA
+2020,Ciudad de Buenos Aires,Superior incompleto o completo,0.785848736120399,AR-C,CABA
 2020,Catamarca,Hasta secundario incompleto,0.525803310613437,AR-K,Catamarca
 2020,Catamarca,Secundario completo,0.737094814786247,AR-K,Catamarca
 2020,Catamarca,Superior incompleto o completo,0.768692658450382,AR-K,Catamarca
@@ -353,9 +353,9 @@ anio,provincia,nivel_ed_fundar,ocupado,geocodigoFundar,geonombreFundar
 2021,Buenos Aires,Hasta secundario incompleto,0.654891840018993,AR-B,Buenos Aires
 2021,Buenos Aires,Secundario completo,0.701373343338348,AR-B,Buenos Aires
 2021,Buenos Aires,Superior incompleto o completo,0.807692414369824,AR-B,Buenos Aires
-2021,Ciudad de Buenos Aires,Hasta secundario incompleto,0.673776015294485,,
-2021,Ciudad de Buenos Aires,Secundario completo,0.813603435856314,,
-2021,Ciudad de Buenos Aires,Superior incompleto o completo,0.871906425453485,,
+2021,Ciudad de Buenos Aires,Hasta secundario incompleto,0.673776015294485,AR-C,CABA
+2021,Ciudad de Buenos Aires,Secundario completo,0.813603435856314,AR-C,CABA
+2021,Ciudad de Buenos Aires,Superior incompleto o completo,0.871906425453485,AR-C,CABA
 2021,Catamarca,Hasta secundario incompleto,0.612408966234749,AR-K,Catamarca
 2021,Catamarca,Secundario completo,0.731307107819563,AR-K,Catamarca
 2021,Catamarca,Superior incompleto o completo,0.785271440363911,AR-K,Catamarca
@@ -425,9 +425,9 @@ anio,provincia,nivel_ed_fundar,ocupado,geocodigoFundar,geonombreFundar
 2022,Buenos Aires,Hasta secundario incompleto,0.684012490812827,AR-B,Buenos Aires
 2022,Buenos Aires,Secundario completo,0.723775560162715,AR-B,Buenos Aires
 2022,Buenos Aires,Superior incompleto o completo,0.831657508316316,AR-B,Buenos Aires
-2022,Ciudad de Buenos Aires,Hasta secundario incompleto,0.787814850241002,,
-2022,Ciudad de Buenos Aires,Secundario completo,0.760604030124729,,
-2022,Ciudad de Buenos Aires,Superior incompleto o completo,0.894956950499692,,
+2022,Ciudad de Buenos Aires,Hasta secundario incompleto,0.787814850241002,AR-C,CABA
+2022,Ciudad de Buenos Aires,Secundario completo,0.760604030124729,AR-C,CABA
+2022,Ciudad de Buenos Aires,Superior incompleto o completo,0.894956950499692,AR-C,CABA
 2022,Catamarca,Hasta secundario incompleto,0.682241685453784,AR-K,Catamarca
 2022,Catamarca,Secundario completo,0.7648618425799,AR-K,Catamarca
 2022,Catamarca,Superior incompleto o completo,0.767885611797529,AR-K,Catamarca
@@ -497,9 +497,9 @@ anio,provincia,nivel_ed_fundar,ocupado,geocodigoFundar,geonombreFundar
 2023,Buenos Aires,Hasta secundario incompleto,0.691307345378368,AR-B,Buenos Aires
 2023,Buenos Aires,Secundario completo,0.762481242801084,AR-B,Buenos Aires
 2023,Buenos Aires,Superior incompleto o completo,0.852302241061609,AR-B,Buenos Aires
-2023,Ciudad de Buenos Aires,Hasta secundario incompleto,0.744227704059729,,
-2023,Ciudad de Buenos Aires,Secundario completo,0.843299531099119,,
-2023,Ciudad de Buenos Aires,Superior incompleto o completo,0.871446998123827,,
+2023,Ciudad de Buenos Aires,Hasta secundario incompleto,0.744227704059729,AR-C,CABA
+2023,Ciudad de Buenos Aires,Secundario completo,0.843299531099119,AR-C,CABA
+2023,Ciudad de Buenos Aires,Superior incompleto o completo,0.871446998123827,AR-C,CABA
 2023,Catamarca,Hasta secundario incompleto,0.693035445437817,AR-K,Catamarca
 2023,Catamarca,Secundario completo,0.79452873906869,AR-K,Catamarca
 2023,Catamarca,Superior incompleto o completo,0.778057032382794,AR-K,Catamarca
@@ -567,7 +567,7 @@ anio,provincia,nivel_ed_fundar,ocupado,geocodigoFundar,geonombreFundar
 2023,Tucumán,Secundario completo,0.77084926004952,AR-T,Tucumán
 2023,Tucumán,Superior incompleto o completo,0.821954037513765,AR-T,Tucumán
 2016,Buenos Aires,Total,0.708294954779,AR-B,Buenos Aires
-2016,Ciudad de Buenos Aires,Total,0.816460817499438,,
+2016,Ciudad de Buenos Aires,Total,0.816460817499438,AR-C,CABA
 2016,Catamarca,Total,0.741197383867181,AR-K,Catamarca
 2016,Chaco,Total,0.605582259946217,AR-H,Chaco
 2016,Chubut,Total,0.721594676917198,AR-U,Chubut
@@ -591,7 +591,7 @@ anio,provincia,nivel_ed_fundar,ocupado,geocodigoFundar,geonombreFundar
 2016,Tierra del Fuego,Total,0.711203688140802,AR-V,Tierra del Fuego
 2016,Tucumán,Total,0.722902943865301,AR-T,Tucumán
 2017,Buenos Aires,Total,0.717583343626284,AR-B,Buenos Aires
-2017,Ciudad de Buenos Aires,Total,0.820311876094361,,
+2017,Ciudad de Buenos Aires,Total,0.820311876094361,AR-C,CABA
 2017,Catamarca,Total,0.739365677811952,AR-K,Catamarca
 2017,Chaco,Total,0.644664295587619,AR-H,Chaco
 2017,Chubut,Total,0.698076542796733,AR-U,Chubut
@@ -615,7 +615,7 @@ anio,provincia,nivel_ed_fundar,ocupado,geocodigoFundar,geonombreFundar
 2017,Tierra del Fuego,Total,0.676107883516722,AR-V,Tierra del Fuego
 2017,Tucumán,Total,0.709890579182172,AR-T,Tucumán
 2018,Buenos Aires,Total,0.706627971474883,AR-B,Buenos Aires
-2018,Ciudad de Buenos Aires,Total,0.826629851224748,,
+2018,Ciudad de Buenos Aires,Total,0.826629851224748,AR-C,CABA
 2018,Catamarca,Total,0.725233571175149,AR-K,Catamarca
 2018,Chaco,Total,0.590529778823763,AR-H,Chaco
 2018,Chubut,Total,0.67845924825932,AR-U,Chubut
@@ -639,7 +639,7 @@ anio,provincia,nivel_ed_fundar,ocupado,geocodigoFundar,geonombreFundar
 2018,Tierra del Fuego,Total,0.65934516488022,AR-V,Tierra del Fuego
 2018,Tucumán,Total,0.706195737332715,AR-T,Tucumán
 2019,Buenos Aires,Total,0.698486489062644,AR-B,Buenos Aires
-2019,Ciudad de Buenos Aires,Total,0.84908750825392,,
+2019,Ciudad de Buenos Aires,Total,0.84908750825392,AR-C,CABA
 2019,Catamarca,Total,0.729867922060939,AR-K,Catamarca
 2019,Chubut,Total,0.703606327191449,AR-U,Chubut
 2019,Corrientes,Total,0.696989033947123,AR-W,Corrientes
@@ -662,7 +662,7 @@ anio,provincia,nivel_ed_fundar,ocupado,geocodigoFundar,geonombreFundar
 2019,Tierra del Fuego,Total,0.647533702875004,AR-V,Tierra del Fuego
 2019,Tucumán,Total,0.71010445133811,AR-T,Tucumán
 2020,Buenos Aires,Total,0.616702795720791,AR-B,Buenos Aires
-2020,Ciudad de Buenos Aires,Total,0.719761267924829,,
+2020,Ciudad de Buenos Aires,Total,0.719761267924829,AR-C,CABA
 2020,Catamarca,Total,0.679278400162214,AR-K,Catamarca
 2020,Chaco,Total,0.608612159875016,AR-H,Chaco
 2020,Chubut,Total,0.685654148355772,AR-U,Chubut
@@ -684,7 +684,7 @@ anio,provincia,nivel_ed_fundar,ocupado,geocodigoFundar,geonombreFundar
 2020,Santa Fe,Total,0.720000742728226,AR-S,Santa Fe
 2020,Tucumán,Total,0.60595289680196,AR-T,Tucumán
 2021,Buenos Aires,Total,0.719620088899986,AR-B,Buenos Aires
-2021,Ciudad de Buenos Aires,Total,0.833530217556525,,
+2021,Ciudad de Buenos Aires,Total,0.833530217556525,AR-C,CABA
 2021,Catamarca,Total,0.711447767744009,AR-K,Catamarca
 2021,Chaco,Total,0.65699720256178,AR-H,Chaco
 2021,Chubut,Total,0.722674386658974,AR-U,Chubut
@@ -708,7 +708,7 @@ anio,provincia,nivel_ed_fundar,ocupado,geocodigoFundar,geonombreFundar
 2021,Tierra del Fuego,Total,0.725148575759906,AR-V,Tierra del Fuego
 2021,Tucumán,Total,0.694162453830289,AR-T,Tucumán
 2022,Buenos Aires,Total,0.73985268104965,AR-B,Buenos Aires
-2022,Ciudad de Buenos Aires,Total,0.855572104489398,,
+2022,Ciudad de Buenos Aires,Total,0.855572104489398,AR-C,CABA
 2022,Catamarca,Total,0.740980679563043,AR-K,Catamarca
 2022,Chaco,Total,0.686157966225784,AR-H,Chaco
 2022,Chubut,Total,0.759548659898108,AR-U,Chubut
@@ -732,7 +732,7 @@ anio,provincia,nivel_ed_fundar,ocupado,geocodigoFundar,geonombreFundar
 2022,Tierra del Fuego,Total,0.710521317011397,AR-V,Tierra del Fuego
 2022,Tucumán,Total,0.714968645631408,AR-T,Tucumán
 2023,Buenos Aires,Total,0.766514418137124,AR-B,Buenos Aires
-2023,Ciudad de Buenos Aires,Total,0.848855848205248,,
+2023,Ciudad de Buenos Aires,Total,0.848855848205248,AR-C,CABA
 2023,Catamarca,Total,0.756256383311588,AR-K,Catamarca
 2023,Chaco,Total,0.667783027797783,AR-H,Chaco
 2023,Chubut,Total,0.764580131615242,AR-U,Chubut

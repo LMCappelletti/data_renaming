@@ -1,18 +1,18 @@
 anio,id_depto,departamento,provincia_id,provincia,densidad_emp,porcentaje_hogares_con_nbi,region,geocodigoFundar,geonombreFundar
-2022.0,2007,Comuna 1,2.0,Ciudad de Buenos Aires,166.823228392245,11.5548920748481,Centro,,
-2022.0,2014,Comuna 2,2.0,Ciudad de Buenos Aires,74.6388691267902,1.98644682526426,Centro,,
-2022.0,2021,Comuna 3,2.0,Ciudad de Buenos Aires,54.1734610680799,9.8309113500081,Centro,,
-2022.0,2028,Comuna 4,2.0,Ciudad de Buenos Aires,31.7571104519281,8.94764547189262,Centro,,
-2022.0,2035,Comuna 5,2.0,Ciudad de Buenos Aires,35.8365376201286,5.00386232941378,Centro,,
-2022.0,2042,Comuna 6,2.0,Ciudad de Buenos Aires,37.6225725585221,3.02312913768541,Centro,,
-2022.0,2056,Comuna 8,2.0,Ciudad de Buenos Aires,11.034071058439,8.7847979383195,Centro,,
-2022.0,2063,Comuna 9,2.0,Ciudad de Buenos Aires,29.1015775184399,3.99382799274939,Centro,,
-2022.0,2070,Comuna 10,2.0,Ciudad de Buenos Aires,32.4269959076091,3.13801308744795,Centro,,
-2022.0,2077,Comuna 11,2.0,Ciudad de Buenos Aires,31.9451029076104,2.54123535433967,Centro,,
-2022.0,2084,Comuna 12,2.0,Ciudad de Buenos Aires,31.1709802564092,1.88092704815654,Centro,,
-2022.0,2091,Comuna 13,2.0,Ciudad de Buenos Aires,55.3473154679728,1.55767402016646,Centro,,
-2022.0,2098,Comuna 14,2.0,Ciudad de Buenos Aires,65.5700122669777,2.25078875466794,Centro,,
-2022.0,2105,Comuna 15,2.0,Ciudad de Buenos Aires,48.914037262033,3.14163828168921,Centro,,
+2022.0,2007,Comuna 1,2.0,Ciudad de Buenos Aires,166.823228392245,11.5548920748481,Centro,AR-C,CABA
+2022.0,2014,Comuna 2,2.0,Ciudad de Buenos Aires,74.6388691267902,1.98644682526426,Centro,AR-C,CABA
+2022.0,2021,Comuna 3,2.0,Ciudad de Buenos Aires,54.1734610680799,9.8309113500081,Centro,AR-C,CABA
+2022.0,2028,Comuna 4,2.0,Ciudad de Buenos Aires,31.7571104519281,8.94764547189262,Centro,AR-C,CABA
+2022.0,2035,Comuna 5,2.0,Ciudad de Buenos Aires,35.8365376201286,5.00386232941378,Centro,AR-C,CABA
+2022.0,2042,Comuna 6,2.0,Ciudad de Buenos Aires,37.6225725585221,3.02312913768541,Centro,AR-C,CABA
+2022.0,2056,Comuna 8,2.0,Ciudad de Buenos Aires,11.034071058439,8.7847979383195,Centro,AR-C,CABA
+2022.0,2063,Comuna 9,2.0,Ciudad de Buenos Aires,29.1015775184399,3.99382799274939,Centro,AR-C,CABA
+2022.0,2070,Comuna 10,2.0,Ciudad de Buenos Aires,32.4269959076091,3.13801308744795,Centro,AR-C,CABA
+2022.0,2077,Comuna 11,2.0,Ciudad de Buenos Aires,31.9451029076104,2.54123535433967,Centro,AR-C,CABA
+2022.0,2084,Comuna 12,2.0,Ciudad de Buenos Aires,31.1709802564092,1.88092704815654,Centro,AR-C,CABA
+2022.0,2091,Comuna 13,2.0,Ciudad de Buenos Aires,55.3473154679728,1.55767402016646,Centro,AR-C,CABA
+2022.0,2098,Comuna 14,2.0,Ciudad de Buenos Aires,65.5700122669777,2.25078875466794,Centro,AR-C,CABA
+2022.0,2105,Comuna 15,2.0,Ciudad de Buenos Aires,48.914037262033,3.14163828168921,Centro,AR-C,CABA
 2022.0,6007,Adolfo Alsina,6.0,Buenos Aires,25.0683682771194,2.49234196602618,Centro,AR-B,Buenos Aires
 2022.0,6014,Adolfo Gonzales Chaves,6.0,Buenos Aires,24.5470032522843,2.09025200234421,Centro,AR-B,Buenos Aires
 2022.0,6021,Alberti,6.0,Buenos Aires,18.5641657679864,4.29435483870968,Centro,AR-B,Buenos Aires
@@ -489,7 +489,7 @@ anio,id_depto,departamento,provincia_id,provincia,densidad_emp,porcentaje_hogare
 2022.0,94015,,94.0,Tierra del Fuego,21.5002923940227,10.4775261681604,Patagonia,AR-V,Tierra del Fuego
 ,94028,Antártida Argentina,,,,,,,
 ,94021,Islas del Atlántico Sur,,,,,,,
-2022.0,2049,Comuna 7,2.0,Ciudad de Buenos Aires,32.7426168155038,5.39738375288557,Centro,,
+2022.0,2049,Comuna 7,2.0,Ciudad de Buenos Aires,32.7426168155038,5.39738375288557,Centro,AR-C,CABA
 2022.0,6049,Azul,6.0,Buenos Aires,20.9472366774257,4.81243830207305,Centro,AR-B,Buenos Aires
 2022.0,6112,Bragado,6.0,Buenos Aires,18.277997591605,4.6414468036399,Centro,AR-B,Buenos Aires
 2022.0,6134,Cañuelas,6.0,Buenos Aires,14.0484409484466,7.27342451744855,Centro,AR-B,Buenos Aires

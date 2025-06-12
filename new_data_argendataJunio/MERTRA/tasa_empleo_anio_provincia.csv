@@ -1,5 +1,5 @@
 anio,provincia,tasa_empleo,geocodigoFundar,geonombreFundar
-2016,CABA,0.513004338146002,,
+2016,CABA,0.513004338146002,AR-C,CABA
 2016,Buenos Aires,0.406335490515795,AR-B,Buenos Aires
 2016,Catamarca,0.409790030453598,AR-K,Catamarca
 2016,Córdoba,0.40789645758115,AR-X,Córdoba
@@ -23,7 +23,7 @@ anio,provincia,tasa_empleo,geocodigoFundar,geonombreFundar
 2016,Santiago del Estero,0.36571062246403,AR-G,Santiago del Estero
 2016,Tucumán,0.40634912013904,AR-T,Tucumán
 2016,Tierra del Fuego,0.440984764672167,AR-V,Tierra del Fuego
-2017,CABA,0.49975704923768,,
+2017,CABA,0.49975704923768,AR-C,CABA
 2017,Buenos Aires,0.413326776762686,AR-B,Buenos Aires
 2017,Catamarca,0.406615598885794,AR-K,Catamarca
 2017,Córdoba,0.410528532154554,AR-X,Córdoba
@@ -47,7 +47,7 @@ anio,provincia,tasa_empleo,geocodigoFundar,geonombreFundar
 2017,Santiago del Estero,0.374802003252346,AR-G,Santiago del Estero
 2017,Tucumán,0.400880635735714,AR-T,Tucumán
 2017,Tierra del Fuego,0.398716101309862,AR-V,Tierra del Fuego
-2018,CABA,0.49214515135441,,
+2018,CABA,0.49214515135441,AR-C,CABA
 2018,Buenos Aires,0.410119219591475,AR-B,Buenos Aires
 2018,Catamarca,0.4051060980989,AR-K,Catamarca
 2018,Córdoba,0.42136458731776,AR-X,Córdoba
@@ -71,7 +71,7 @@ anio,provincia,tasa_empleo,geocodigoFundar,geonombreFundar
 2018,Santiago del Estero,0.359309538019353,AR-G,Santiago del Estero
 2018,Tucumán,0.40359309389949,AR-T,Tucumán
 2018,Tierra del Fuego,0.386826005642375,AR-V,Tierra del Fuego
-2019,CABA,0.524219955060018,,
+2019,CABA,0.524219955060018,AR-C,CABA
 2019,Buenos Aires,0.406736837017766,AR-B,Buenos Aires
 2019,Catamarca,0.394179820618104,AR-K,Catamarca
 2019,Córdoba,0.423947350587682,AR-X,Córdoba
@@ -94,7 +94,7 @@ anio,provincia,tasa_empleo,geocodigoFundar,geonombreFundar
 2019,Santiago del Estero,0.377586570184123,AR-G,Santiago del Estero
 2019,Tucumán,0.415159424373974,AR-T,Tucumán
 2019,Tierra del Fuego,0.387281056985465,AR-V,Tierra del Fuego
-2020,CABA,0.428938579884812,,
+2020,CABA,0.428938579884812,AR-C,CABA
 2020,Buenos Aires,0.349928136145333,AR-B,Buenos Aires
 2020,Catamarca,0.364837662238486,AR-K,Catamarca
 2020,Córdoba,0.39382709974823,AR-X,Córdoba
@@ -116,7 +116,7 @@ anio,provincia,tasa_empleo,geocodigoFundar,geonombreFundar
 2020,Santa Cruz,0.358505658756091,AR-Z,Santa Cruz
 2020,Santa Fe,0.420930572883466,AR-S,Santa Fe
 2020,Tucumán,0.347070425666786,AR-T,Tucumán
-2021,CABA,0.496888414590278,,
+2021,CABA,0.496888414590278,AR-C,CABA
 2021,Buenos Aires,0.417284832744725,AR-B,Buenos Aires
 2021,Catamarca,0.391387068522937,AR-K,Catamarca
 2021,Córdoba,0.424206125317088,AR-X,Córdoba
@@ -140,7 +140,7 @@ anio,provincia,tasa_empleo,geocodigoFundar,geonombreFundar
 2021,Santiago del Estero,0.391347190275751,AR-G,Santiago del Estero
 2021,Tucumán,0.391386041492605,AR-T,Tucumán
 2021,Tierra del Fuego,0.433142444287838,AR-V,Tierra del Fuego
-2022,CABA,0.510064093409328,,
+2022,CABA,0.510064093409328,AR-C,CABA
 2022,Buenos Aires,0.428131998796611,AR-B,Buenos Aires
 2022,Catamarca,0.41661662494872,AR-K,Catamarca
 2022,Córdoba,0.450076570339023,AR-X,Córdoba
@@ -164,7 +164,7 @@ anio,provincia,tasa_empleo,geocodigoFundar,geonombreFundar
 2022,Santiago del Estero,0.401871603200403,AR-G,Santiago del Estero
 2022,Tucumán,0.412978783310345,AR-T,Tucumán
 2022,Tierra del Fuego,0.436025392551673,AR-V,Tierra del Fuego
-2023,CABA,0.528291476483892,,
+2023,CABA,0.528291476483892,AR-C,CABA
 2023,Buenos Aires,0.450224663485831,AR-B,Buenos Aires
 2023,Catamarca,0.435976302715978,AR-K,Catamarca
 2023,Córdoba,0.447920104201938,AR-X,Córdoba

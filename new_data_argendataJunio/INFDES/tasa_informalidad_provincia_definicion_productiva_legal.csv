@@ -1,6 +1,6 @@
 anio,prov_cod,prov_desc,tipo_informalidad,valor,geocodigoFundar,geonombreFundar
-2016,2,CABA,Informalidad (definición productiva),0.262605304100318,,
-2016,2,CABA,Informalidad (definición legal),0.208920240561356,,
+2016,2,CABA,Informalidad (definición productiva),0.262605304100318,AR-C,CABA
+2016,2,CABA,Informalidad (definición legal),0.208920240561356,AR-C,CABA
 2016,6,Buenos Aires,Informalidad (definición productiva),0.450305313585956,AR-B,Buenos Aires
 2016,6,Buenos Aires,Informalidad (definición legal),0.365511202036232,AR-B,Buenos Aires
 2016,10,Catamarca,Informalidad (definición productiva),0.388740950983831,AR-K,Catamarca
@@ -47,8 +47,8 @@ anio,prov_cod,prov_desc,tipo_informalidad,valor,geocodigoFundar,geonombreFundar
 2016,90,Tucumán,Informalidad (definición legal),0.468115345970232,AR-T,Tucumán
 2016,94,Tierra del Fuego,Informalidad (definición productiva),0.217516697024894,AR-V,Tierra del Fuego
 2016,94,Tierra del Fuego,Informalidad (definición legal),0.0823006985642574,AR-V,Tierra del Fuego
-2017,2,CABA,Informalidad (definición productiva),0.259832503297321,,
-2017,2,CABA,Informalidad (definición legal),0.235824229848826,,
+2017,2,CABA,Informalidad (definición productiva),0.259832503297321,AR-C,CABA
+2017,2,CABA,Informalidad (definición legal),0.235824229848826,AR-C,CABA
 2017,6,Buenos Aires,Informalidad (definición productiva),0.436816193084057,AR-B,Buenos Aires
 2017,6,Buenos Aires,Informalidad (definición legal),0.364983863258397,AR-B,Buenos Aires
 2017,10,Catamarca,Informalidad (definición productiva),0.381998727133276,AR-K,Catamarca
@@ -95,8 +95,8 @@ anio,prov_cod,prov_desc,tipo_informalidad,valor,geocodigoFundar,geonombreFundar
 2017,90,Tucumán,Informalidad (definición legal),0.465941880449693,AR-T,Tucumán
 2017,94,Tierra del Fuego,Informalidad (definición productiva),0.201091765020116,AR-V,Tierra del Fuego
 2017,94,Tierra del Fuego,Informalidad (definición legal),0.100911170134278,AR-V,Tierra del Fuego
-2018,2,CABA,Informalidad (definición productiva),0.302962125045601,,
-2018,2,CABA,Informalidad (definición legal),0.19490428503304,,
+2018,2,CABA,Informalidad (definición productiva),0.302962125045601,AR-C,CABA
+2018,2,CABA,Informalidad (definición legal),0.19490428503304,AR-C,CABA
 2018,6,Buenos Aires,Informalidad (definición productiva),0.459219081804953,AR-B,Buenos Aires
 2018,6,Buenos Aires,Informalidad (definición legal),0.366337252360218,AR-B,Buenos Aires
 2018,10,Catamarca,Informalidad (definición productiva),0.37022367194781,AR-K,Catamarca
@@ -143,8 +143,8 @@ anio,prov_cod,prov_desc,tipo_informalidad,valor,geocodigoFundar,geonombreFundar
 2018,90,Tucumán,Informalidad (definición legal),0.456499231407185,AR-T,Tucumán
 2018,94,Tierra del Fuego,Informalidad (definición productiva),0.238748867335638,AR-V,Tierra del Fuego
 2018,94,Tierra del Fuego,Informalidad (definición legal),0.116292996968222,AR-V,Tierra del Fuego
-2019,2,CABA,Informalidad (definición productiva),0.26959518395425,,
-2019,2,CABA,Informalidad (definición legal),0.254540520048938,,
+2019,2,CABA,Informalidad (definición productiva),0.26959518395425,AR-C,CABA
+2019,2,CABA,Informalidad (definición legal),0.254540520048938,AR-C,CABA
 2019,6,Buenos Aires,Informalidad (definición productiva),0.450572204193828,AR-B,Buenos Aires
 2019,6,Buenos Aires,Informalidad (definición legal),0.359667881110482,AR-B,Buenos Aires
 2019,10,Catamarca,Informalidad (definición productiva),0.395702953721051,AR-K,Catamarca
@@ -189,8 +189,8 @@ anio,prov_cod,prov_desc,tipo_informalidad,valor,geocodigoFundar,geonombreFundar
 2019,90,Tucumán,Informalidad (definición legal),0.479882599333353,AR-T,Tucumán
 2019,94,Tierra del Fuego,Informalidad (definición productiva),0.216254301163362,AR-V,Tierra del Fuego
 2019,94,Tierra del Fuego,Informalidad (definición legal),0.121822013784723,AR-V,Tierra del Fuego
-2020,2,CABA,Informalidad (definición productiva),0.258504774039242,,
-2020,2,CABA,Informalidad (definición legal),0.188105579014432,,
+2020,2,CABA,Informalidad (definición productiva),0.258504774039242,AR-C,CABA
+2020,2,CABA,Informalidad (definición legal),0.188105579014432,AR-C,CABA
 2020,6,Buenos Aires,Informalidad (definición productiva),0.428969875042378,AR-B,Buenos Aires
 2020,6,Buenos Aires,Informalidad (definición legal),0.27361605102971,AR-B,Buenos Aires
 2020,10,Catamarca,Informalidad (definición productiva),0.329079253589642,AR-K,Catamarca
@@ -233,8 +233,8 @@ anio,prov_cod,prov_desc,tipo_informalidad,valor,geocodigoFundar,geonombreFundar
 2020,82,Santa Fe,Informalidad (definición legal),0.307026029651008,AR-S,Santa Fe
 2020,90,Tucumán,Informalidad (definición productiva),0.466792460120684,AR-T,Tucumán
 2020,90,Tucumán,Informalidad (definición legal),0.486717604791826,AR-T,Tucumán
-2021,2,CABA,Informalidad (definición productiva),0.26535067176487,,
-2021,2,CABA,Informalidad (definición legal),0.228341637428118,,
+2021,2,CABA,Informalidad (definición productiva),0.26535067176487,AR-C,CABA
+2021,2,CABA,Informalidad (definición legal),0.228341637428118,AR-C,CABA
 2021,6,Buenos Aires,Informalidad (definición productiva),0.436215401861134,AR-B,Buenos Aires
 2021,6,Buenos Aires,Informalidad (definición legal),0.343024916478011,AR-B,Buenos Aires
 2021,10,Catamarca,Informalidad (definición productiva),0.367266880029829,AR-K,Catamarca
@@ -281,8 +281,8 @@ anio,prov_cod,prov_desc,tipo_informalidad,valor,geocodigoFundar,geonombreFundar
 2021,90,Tucumán,Informalidad (definición legal),0.474282738557761,AR-T,Tucumán
 2021,94,Tierra del Fuego,Informalidad (definición productiva),0.235944025000691,AR-V,Tierra del Fuego
 2021,94,Tierra del Fuego,Informalidad (definición legal),0.106582326643204,AR-V,Tierra del Fuego
-2022,2,CABA,Informalidad (definición productiva),0.242188027917483,,
-2022,2,CABA,Informalidad (definición legal),0.241468670484844,,
+2022,2,CABA,Informalidad (definición productiva),0.242188027917483,AR-C,CABA
+2022,2,CABA,Informalidad (definición legal),0.241468670484844,AR-C,CABA
 2022,6,Buenos Aires,Informalidad (definición productiva),0.475011703480703,AR-B,Buenos Aires
 2022,6,Buenos Aires,Informalidad (definición legal),0.400642669551619,AR-B,Buenos Aires
 2022,10,Catamarca,Informalidad (definición productiva),0.377821479296406,AR-K,Catamarca
@@ -329,8 +329,8 @@ anio,prov_cod,prov_desc,tipo_informalidad,valor,geocodigoFundar,geonombreFundar
 2022,90,Tucumán,Informalidad (definición legal),0.479800026375418,AR-T,Tucumán
 2022,94,Tierra del Fuego,Informalidad (definición productiva),0.250876227053594,AR-V,Tierra del Fuego
 2022,94,Tierra del Fuego,Informalidad (definición legal),0.0814981876761982,AR-V,Tierra del Fuego
-2023,2,CABA,Informalidad (definición productiva),0.267744522745345,,
-2023,2,CABA,Informalidad (definición legal),0.248610377716043,,
+2023,2,CABA,Informalidad (definición productiva),0.267744522745345,AR-C,CABA
+2023,2,CABA,Informalidad (definición legal),0.248610377716043,AR-C,CABA
 2023,6,Buenos Aires,Informalidad (definición productiva),0.430287691479472,AR-B,Buenos Aires
 2023,6,Buenos Aires,Informalidad (definición legal),0.361203114678189,AR-B,Buenos Aires
 2023,10,Catamarca,Informalidad (definición productiva),0.39458766085985,AR-K,Catamarca
